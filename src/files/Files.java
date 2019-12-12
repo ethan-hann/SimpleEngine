@@ -20,6 +20,7 @@ public class Files
 
     private Files()
     {
+        gameFiles = new HashMap<>();
         sb = new StringBuilder();
         readConfig();
         Logger.getInstance(); // Initialize log file by simply getting an instance of the Logger class

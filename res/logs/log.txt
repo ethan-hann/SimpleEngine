@@ -6,3 +6,4 @@ Thu Dec 12 00:37:07 CST 2019:	Running at: 60 FPS as per config file
 Thu Dec 12 00:51:28 CST 2019:	Running at: 60 FPS as per config file
 Thu Dec 12 00:52:00 CST 2019:	Running at: 60 FPS as per config file
 Thu Dec 12 00:52:20 CST 2019:	Running at: 60 FPS as per config file
+Thu Dec 12 00:52:47 CST 2019:	Running at: 60 FPS as per config file
