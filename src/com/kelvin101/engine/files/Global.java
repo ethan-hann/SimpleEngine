@@ -5,5 +5,6 @@ package com.kelvin101.engine.files;
  */
 public class Global
 {
+    public static String defaultConfigFileLocation = "./res/config/default_config.cfg";
     public static String configFileLocation;
 }

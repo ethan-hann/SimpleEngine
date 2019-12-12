@@ -6,17 +6,17 @@ import java.util.HashMap;
  * Animation handler class to store all animations for the game.
  * An animation is defined by the {@link Animation} class.
  */
-public class AnimationHandler
+public class AnimationManager
 {
     private static HashMap<String, Animation> animations;
 
-    private static AnimationHandler instance;
+    private static AnimationManager instance;
 
-    public static AnimationHandler getInstance()
+    public static AnimationManager getInstance()
     {
         if (instance == null)
         {
-            instance = new AnimationHandler();
+            instance = new AnimationManager();
             animations = new HashMap<>();
         }
         return instance;

@@ -6,6 +6,7 @@ import com.kelvin101.engine.collision.AABB;
 import com.kelvin101.engine.collision.Bounds;
 import com.kelvin101.engine.gamestates.State;
 import com.kelvin101.engine.gamestates.StateManager;
+import com.kelvin101.engine.input.InputManager;
 import com.kelvin101.engine.util.Dimension;
 import com.kelvin101.engine.util.Vector2f;
 import com.kelvin101.gametest.entities.Player;
@@ -17,7 +18,7 @@ public class EngineLauncher
     public static void main(String[] args)
     {
         Game.getInstance();
-        Vector2f playerPos = new Vector2f(10, 200);
+        Vector2f playerPos = new Vector2f(600, 200);
         Dimension playerSize = new Dimension(32, 32);
         Bounds playerBounds = new AABB(playerPos, playerSize);
 
@@ -40,5 +41,6 @@ public class EngineLauncher
                 .getStateObjects()
                 .add(obstacle);
         StateManager.getInstance().setCurrentState(gameState);
+        InputManager.getInstance().changeKeyMapping(38, "up_key");
     }
 }

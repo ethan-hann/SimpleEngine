@@ -2,6 +2,7 @@ package com.kelvin101.engine.files;
 
 import com.kelvin101.engine.config.Config;
 import com.kelvin101.engine.exception.InvalidConfigException;
+import com.kelvin101.engine.logger.Logger;
 
 import java.io.*;
 import java.util.HashMap;
@@ -144,6 +145,7 @@ public class Files
      */
     private boolean readConfig()
     {
+        Logger.getInstance().write("Loading config...");
         try
         {
             gameFiles.put("configFile", new File(Global.configFileLocation));
@@ -151,6 +153,7 @@ public class Files
             sb = new StringBuilder();
             br = new BufferedReader(new FileReader(Global.configFileLocation));
             String line;
+            Logger.getInstance().write("Config options: ");
             while ((line = br.readLine()) != null)
             {
                 try
@@ -178,10 +181,25 @@ public class Files
      */
     private void parseOption(String s) throws InvalidConfigException
     {
-        String optString = s.replaceAll("\\\"", "");
-        int equalsIndex = optString.indexOf('=');
-        String key = optString.substring(0, equalsIndex);
-        String value = optString.substring(equalsIndex + 1);
+        String optString = s.replaceAll("\\\"", ""); //replace " chars with nothing
+        int commentIndex;
+        int equalsIndex;
+        String key;
+        String value;
+        if (optString.contains("//")) //If the line contains a comment, take it into account
+        {
+            commentIndex = optString.indexOf("//");
+            equalsIndex = optString.indexOf('=');
+            key = optString.substring(0, equalsIndex).strip();
+            value = optString.substring(equalsIndex + 1, commentIndex).strip();
+        }
+        else
+        {
+            equalsIndex = optString.indexOf('=');
+            key = optString.substring(0, equalsIndex);
+            value = optString.substring(equalsIndex + 1);
+        }
+
         if (!Config.getInstance().getConfigOptions().contains(key))
         {
             throw new InvalidConfigException("Config file contains invalid option -> "
@@ -189,6 +207,8 @@ public class Files
         }else
         {
             Config.getInstance().getOptions().put(key, value);
+            String logText = String.format("%s : %s", key, value);
+            Logger.getInstance().write(logText);
         }
     }
 

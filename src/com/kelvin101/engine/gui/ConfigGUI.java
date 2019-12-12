@@ -28,7 +28,7 @@ public class ConfigGUI extends JFileChooser
             Global.configFileLocation = f.getAbsolutePath();
         }
         else {
-            Global.configFileLocation = "./res/config/default_config.cfg";
+            Global.configFileLocation = Global.defaultConfigFileLocation;
         }
     }
 }

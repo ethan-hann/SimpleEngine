@@ -7,30 +7,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38922ead-74fb-4908-b10d-32ce0f86b4db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/kelvin101/engine/animation/Animation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kelvin101/engine/animation/AnimationHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kelvin101/engine/base/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kelvin101/engine/gamestates/State.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kelvin101/engine/gamestates/StateManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kelvin101/gametest/entities/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kelvin101/gametest/entities/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kelvin101/gametest/states/GameState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kelvin101/engine/input/InputManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/simple_engine_jar/2DEngine.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2DEngine/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2DEngine/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2DEngine/com/kelvin101/engine/animation/AnimationHandler.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/2DEngine/com/kelvin101/engine/base/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2DEngine/com/kelvin101/engine/base/Game.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2DEngine/com/kelvin101/engine/base/GameObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2DEngine/com/kelvin101/engine/base/GameObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2DEngine/com/kelvin101/engine/collision/AABB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2DEngine/com/kelvin101/engine/collision/AABB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2DEngine/com/kelvin101/engine/collision/Bounds.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2DEngine/com/kelvin101/engine/collision/Bounds.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2DEngine/com/kelvin101/engine/config/ConfigOptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2DEngine/com/kelvin101/engine/config/ConfigOptions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2DEngine/com/kelvin101/engine/files/Files.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2DEngine/com/kelvin101/engine/files/Files.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2DEngine/com/kelvin101/engine/files/Logger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2DEngine/com/kelvin101/gametest/EngineLauncher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2DEngine/com/kelvin101/gametest/EngineLauncher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2DEngine/com/kelvin101/gametest/entities/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2DEngine/com/kelvin101/gametest/entities/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2DEngine/config/default_config.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2DEngine/config/default_config.cfg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/2DEngine/logs/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2DEngine/logs/log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/config/default_config.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/res/config/default_config.cfg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/res/logs/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/logs/log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kelvin101/gametest/EngineLauncher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kelvin101/engine/animation/AnimationHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kelvin101/engine/animation/AnimationManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/kelvin101/engine/base/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kelvin101/engine/base/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kelvin101/engine/base/GameObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kelvin101/engine/base/GameObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kelvin101/engine/collision/AABB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kelvin101/engine/collision/AABB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kelvin101/engine/collision/Bounds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kelvin101/engine/collision/Bounds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kelvin101/engine/config/ConfigOptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kelvin101/engine/config/ConfigOptions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kelvin101/engine/files/Files.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kelvin101/engine/files/Files.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kelvin101/engine/files/Global.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kelvin101/engine/files/Global.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kelvin101/engine/files/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kelvin101/engine/logger/Logger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kelvin101/engine/gui/ConfigGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kelvin101/engine/gui/ConfigGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kelvin101/gametest/EngineLauncher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kelvin101/gametest/EngineLauncher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kelvin101/gametest/entities/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kelvin101/gametest/entities/Player.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

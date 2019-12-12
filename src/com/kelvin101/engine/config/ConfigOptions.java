@@ -9,5 +9,11 @@ public enum ConfigOptions
     WINDOW_WIDTH,
     WINDOW_HEIGHT,
     RESIZABLE,
-    FPS
+    FPS,
+    UP_KEY,
+    DOWN_KEY,
+    LEFT_KEY,
+    RIGHT_KEY,
+    PAUSE_KEY,
+    EXIT_KEY
 }
