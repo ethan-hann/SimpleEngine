@@ -5,6 +5,7 @@
       <element id="archive" name="2DEngine.jar">
         <element id="module-output" name="2DEngine" />
         <element id="module-source" name="2DEngine" />
+        <element id="dir-copy" path="$PROJECT_DIR$/res" />
       </element>
     </root>
   </artifact>

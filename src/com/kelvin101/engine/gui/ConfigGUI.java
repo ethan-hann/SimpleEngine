@@ -28,7 +28,7 @@ public class ConfigGUI extends JFileChooser
             Global.configFileLocation = f.getAbsolutePath();
         }
         else {
-            Global.configFileLocation = "./res/com.kelvin101.engine.config/default_config.cfg";
+            Global.configFileLocation = "./res/config/default_config.cfg";
         }
     }
 }
