@@ -2,23 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38922ead-74fb-4908-b10d-32ce0f86b4db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/base/GameObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/Math.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/Vector2f.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/Vector2i.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/physics/collision/AABB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/physics/collision/Bounds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/Dimension.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestingEngine/src/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestingEngine/src/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2DEngine/base/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2DEngine/base/Game.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2DEngine/config/Config.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2DEngine/config/Config.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2DEngine/config/ConfigOptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2DEngine/config/ConfigOptions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2DEngine/exception/InvalidConfigException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2DEngine/exception/InvalidConfigException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2DEngine/files/Files.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2DEngine/files/Files.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2DEngine/files/Global.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2DEngine/files/Global.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2DEngine/files/Logger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2DEngine/files/Logger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2DEngine/gui/ConfigGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2DEngine/gui/ConfigGUI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2DEngine/logs/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2DEngine/logs/log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TestingEngine/Launcher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TestingEngine/Launcher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/files/Files.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/files/Files.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestingEngine/src/TODO" beforeDir="false" afterPath="$PROJECT_DIR$/TestingEngine/src/TODO" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/base/GameObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/GameObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/util/Vector2f.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/util/Vector2f.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/util/Vector2i.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/util/Vector2i.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +33,10 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
