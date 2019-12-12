@@ -1,0 +1,33 @@
+package gui;
+
+import files.Global;
+
+import javax.swing.*;
+import javax.swing.filechooser.FileFilter;
+import javax.swing.filechooser.FileNameExtensionFilter;
+import java.io.File;
+
+/**
+ * Displays a starting GUI for the game where the user chooses the location of a config
+ * file. If no file is chosen, a default one is used.
+ */
+public class ConfigGUI extends JFileChooser
+{
+    public void display()
+    {
+        FileFilter filter = new FileNameExtensionFilter("Config File (*.cfg)", "cfg");
+        this.addChoosableFileFilter(filter);
+        this.setFileFilter(filter);
+        this.setDialogTitle("Choose Configuration File for Engine...");
+
+        int returnVal = this.showOpenDialog(this.getParent());
+        if (returnVal == JFileChooser.APPROVE_OPTION)
+        {
+            File f = this.getSelectedFile();
+            Global.configFileLocation = f.getAbsolutePath();
+        }
+        else {
+            Global.configFileLocation = "./res/config/default_config.cfg";
+        }
+    }
+}

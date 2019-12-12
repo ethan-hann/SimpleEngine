@@ -1,0 +1,2 @@
+Wed Dec 11 22:58:00 CST 2019:	This is a log test
+Wed Dec 11 22:58:00 CST 2019:	Running at: 60 as per config file
