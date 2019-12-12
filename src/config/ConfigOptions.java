@@ -1,5 +1,8 @@
 package config;
 
+/**
+ * An enumeration of all valid configuration options present in the engine
+ */
 public enum ConfigOptions
 {
     TITLE,

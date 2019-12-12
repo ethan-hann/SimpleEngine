@@ -8,8 +8,9 @@ import javax.swing.filechooser.FileNameExtensionFilter;
 import java.io.File;
 
 /**
- * Displays a starting GUI for the game where the user chooses the location of a config
- * file. If no file is chosen, a default one is used.
+ * Displays a starting GUI for the game where the user chooses the location of a configuration
+ * file. If no file is chosen, a default one is used. {@link Global#configFileLocation} is set to the absolute
+ * file path of the selected configuration file.
  */
 public class ConfigGUI extends JFileChooser
 {

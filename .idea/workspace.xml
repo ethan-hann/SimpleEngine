@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38922ead-74fb-4908-b10d-32ce0f86b4db" name="Default Changelist" comment="" />
+    <list default="true" id="38922ead-74fb-4908-b10d-32ce0f86b4db" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/base/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/config/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config/ConfigOptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/config/ConfigOptions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exception/InvalidConfigException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exception/InvalidConfigException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/files/Files.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/files/Files.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/files/Global.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/files/Global.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/files/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/files/Logger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/graphics/Display.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphics/Display.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/ConfigGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/ConfigGUI.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +28,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UrbNYfnkz7kIkqHepUzTsrkyhC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -69,5 +86,16 @@
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.cfg" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

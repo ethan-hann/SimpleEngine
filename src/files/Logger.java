@@ -4,8 +4,9 @@ import java.io.*;
 import java.util.Calendar;
 
 /**
- * Logger class to handle writing to a log file
- * Writes a string to Log file; most objects can be represented as a String
+ * Logger class to handle writing to a log file. Writes a string to Log file.
+ * Most objects can be represented as a <code>String</code> and thus can be
+ * logged. Note that log messages are also sent to <code>System.out.println()</code>.
  */
 public class Logger
 {

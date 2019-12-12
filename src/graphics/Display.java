@@ -6,8 +6,8 @@ import javax.swing.*;
 import java.awt.*;
 
 /**
- * Handles initializing the JFrame and Canvas for the Game to run in
- * Gets its options from the configuration file
+ * Handles initializing the JFrame and Canvas for the Game to run in.
+ * Gets its options from the configuration file that is accessed via {@link Config#getOptions()}
  */
 public class Display
 {

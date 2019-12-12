@@ -6,9 +6,11 @@ import files.Logger;
 import graphics.Display;
 import gui.ConfigGUI;
 
+import java.io.ObjectInputFilter;
+
 /**
- * The main Game class which contains the GameLoop and is responsible for
- * ticking and rendering all GameObjects and States
+ * The main Game class which contains the game loop and is responsible for
+ * ticking and rendering all <code>GameObjects</code> and <code>States</code>.
  */
 public class Game implements Runnable
 {
@@ -55,7 +57,8 @@ public class Game implements Runnable
         long lastTime = System.nanoTime();
         long timer = 0;
         int gTicks = 0;
-        Logger.getInstance().write("Running at: ".concat(String.format("%d", FPS)).concat(" as per config file"));
+        String logText = "Running at: ".concat(String.format("%d", FPS)).concat(" FPS as per config file");
+        Logger.getInstance().write(logText);
 
         while (running)
         {
