@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="simple-engine:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/simple_engine_jar</output-path>
+    <root id="root">
+      <element id="archive" name="2DEngine.jar">
+        <element id="module-output" name="2DEngine" />
+        <element id="module-source" name="2DEngine" />
+      </element>
+    </root>
+  </artifact>
+</component>

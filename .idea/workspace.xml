@@ -1,21 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="simple-engine" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="38922ead-74fb-4908-b10d-32ce0f86b4db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/physics/collision/AABB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/physics/collision/Bounds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/Dimension.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestingEngine/src/TODO" beforeDir="false" afterPath="$PROJECT_DIR$/TestingEngine/src/TODO" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base/GameObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/GameObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/util/Vector2f.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/util/Vector2f.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/util/Vector2i.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/util/Vector2i.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestingEngine/TestingEngine.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestingEngine/src/Launcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestingEngine/src/TODO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2DEngine/META-INF/2DEngine.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2DEngine/base/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2DEngine/base/GameObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2DEngine/config/Config.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2DEngine/config/ConfigOptions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2DEngine/config/default_config.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2DEngine/exception/InvalidConfigException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2DEngine/files/Files.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2DEngine/files/Global.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2DEngine/files/Logger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2DEngine/graphics/Display.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2DEngine/gui/ConfigGUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2DEngine/logs/log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2DEngine/util/Math.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2DEngine/util/Vector2f.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2DEngine/util/Vector2i.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TestingEngine/Launcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TestingEngine/TODO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/config/default_config.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/res/com/kelvin101/engine/config/default_config.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/logs/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/logs/log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/base/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kelvin101/engine/base/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/base/GameObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kelvin101/engine/base/GameObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kelvin101/engine/config/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config/ConfigOptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kelvin101/engine/config/ConfigOptions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exception/InvalidConfigException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kelvin101/engine/exception/InvalidConfigException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/files/Files.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kelvin101/engine/files/Files.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/files/Global.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kelvin101/engine/files/Global.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/files/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kelvin101/engine/files/Logger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/graphics/Display.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kelvin101/engine/graphics/Display.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/ConfigGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kelvin101/engine/gui/ConfigGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/physics/collision/AABB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kelvin101/engine/collision/AABB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/physics/collision/Bounds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kelvin101/engine/collision/Bounds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/util/Dimension.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kelvin101/engine/util/Dimension.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/util/Math.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kelvin101/engine/util/Math.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/util/Vector2f.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kelvin101/engine/util/Vector2f.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/util/Vector2i.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kelvin101/engine/util/Vector2i.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -26,6 +69,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="testing" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1UrbNYfnkz7kIkqHepUzTsrkyhC" />
@@ -33,13 +81,15 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15332031" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
@@ -95,7 +145,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
