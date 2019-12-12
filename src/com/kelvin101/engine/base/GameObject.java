@@ -1,6 +1,7 @@
 package com.kelvin101.engine.base;
 
 import com.kelvin101.engine.collision.Bounds;
+import com.kelvin101.engine.gamestates.State;
 import com.kelvin101.engine.util.Dimension;
 import com.kelvin101.engine.util.Vector2f;
 
@@ -17,6 +18,7 @@ public abstract class GameObject
     private Vector2f position;
     private Dimension size;
     private Bounds bounds;
+    private State parent;
 
     public GameObject(Vector2f position, Dimension size, Bounds bounds)
     {

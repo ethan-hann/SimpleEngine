@@ -1,20 +1,25 @@
 package com.kelvin101.engine.collision;
 
 import com.kelvin101.engine.util.Dimension;
+import com.kelvin101.engine.util.Vector2f;
 
 public class AABB extends Bounds
 {
-    public AABB(Dimension hitBox)
+    public AABB(Vector2f pos, Dimension hitBox)
     {
-        super(hitBox);
+        super(pos, hitBox);
     }
 
     @Override
     public boolean isColliding(Bounds other)
     {
-        /*Dimension a = getHitBox();
+        Dimension a = getHitBox();
+        Vector2f aPos = getPos();
         Dimension b = other.getHitBox();
-        return (a.getWidth() < b.getWidth() + b.)*/
-        return true;
+        Vector2f bPos = other.getPos();
+        return (aPos.getX() < bPos.getX() + b.getWidth()) &&
+                (aPos.getX() + a.getWidth() > bPos.getX()) &&
+                (aPos.getY() < bPos.getY() + b.getHeight()) &&
+                (aPos.getY() + a.getHeight() > bPos.getY());
     }
 }
