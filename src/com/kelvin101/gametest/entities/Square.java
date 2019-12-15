@@ -17,7 +17,7 @@ public class Square extends GameObject
     @Override
     public void tick()
     {
-        getPosition().setX(getPosition().getX() - 5);
+
     }
 
     @Override

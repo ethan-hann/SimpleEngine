@@ -15,5 +15,8 @@ public enum ConfigOptions
     LEFT_KEY,
     RIGHT_KEY,
     PAUSE_KEY,
-    EXIT_KEY
+    EXIT_KEY,
+    LEFT_MOUSE,
+    RIGHT_MOUSE,
+    MIDDLE_MOUSE
 }

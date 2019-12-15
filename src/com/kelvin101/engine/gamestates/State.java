@@ -3,12 +3,12 @@ package com.kelvin101.engine.gamestates;
 import com.kelvin101.engine.base.GameObject;
 
 import java.awt.*;
-import java.util.ArrayList;
+import java.util.HashMap;
 
 public abstract class State
 {
     private String stateName;
-    private ArrayList<GameObject> stateObjects = new ArrayList<>();
+    private HashMap<String, GameObject> stateObjects = new HashMap<>();
 
     public State(String stateName)
     {
@@ -16,7 +16,7 @@ public abstract class State
         StateManager.getInstance().getStates().put(stateName, this);
     }
 
-    public ArrayList<GameObject> getStateObjects()
+    public HashMap<String, GameObject> getStateObjects()
     {
         return stateObjects;
     }

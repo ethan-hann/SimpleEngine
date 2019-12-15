@@ -2,11 +2,10 @@ package com.kelvin101.engine.base;
 
 import com.kelvin101.engine.config.Config;
 import com.kelvin101.engine.files.Files;
-import com.kelvin101.engine.input.InputManager;
-import com.kelvin101.engine.logger.Logger;
 import com.kelvin101.engine.gamestates.StateManager;
 import com.kelvin101.engine.graphics.Display;
 import com.kelvin101.engine.gui.ConfigGUI;
+import com.kelvin101.engine.logger.Logger;
 
 import java.awt.*;
 import java.awt.image.BufferStrategy;
@@ -33,12 +32,10 @@ public class Game implements Runnable
     {
         new ConfigGUI().display(); //get the location of the com.kelvin101.engine.config file
         Files.getInstance(); //initialize all files and logging
-        display = Display.getInstance(); //get an instance of the Display class
-        display.getFrame().addKeyListener(InputManager.getInstance());
 
+        display = Display.getInstance(); //get an instance of the Display class
         windowWidth = Integer.parseInt(Config.getInstance().getOptions().get("window_width"));
         windowHeight = Integer.parseInt(Config.getInstance().getOptions().get("window_height"));
-
 
         start(); //start the game
     }

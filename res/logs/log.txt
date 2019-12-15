@@ -5,3 +5,749 @@ Thu Dec 12 17:15:54 CST 2019:	window_width : 1280
 Thu Dec 12 17:15:54 CST 2019:	window_height : 720
 Thu Dec 12 17:15:54 CST 2019:	resizable : true
 Thu Dec 12 17:15:54 CST 2019:	fps : 60
+Sat Dec 14 19:26:04 CST 2019:	Loading config...
+Sat Dec 14 19:26:04 CST 2019:	Config options: 
+Sat Dec 14 19:26:05 CST 2019:	title : Default Game
+Sat Dec 14 19:26:05 CST 2019:	window_width : 800
+Sat Dec 14 19:26:05 CST 2019:	window_height : 600
+Sat Dec 14 19:26:05 CST 2019:	resizable : false
+Sat Dec 14 19:26:05 CST 2019:	fps : 60
+Sat Dec 14 19:26:05 CST 2019:	up_key : 87
+Sat Dec 14 19:26:05 CST 2019:	down_key : 83
+Sat Dec 14 19:26:05 CST 2019:	left_key : 65
+Sat Dec 14 19:26:05 CST 2019:	right_key : 68
+Sat Dec 14 19:26:05 CST 2019:	pause_key : 80
+Sat Dec 14 19:26:05 CST 2019:	exit_key : 27
+Sat Dec 14 19:26:05 CST 2019:	Running at 60 FPS as per config file!
+Sat Dec 14 19:26:05 CST 2019:	Key mapping changed! up_key: 87 -> 38
+Sat Dec 14 19:40:12 CST 2019:	Loading config...
+Sat Dec 14 19:40:12 CST 2019:	Config options: 
+Sat Dec 14 19:40:13 CST 2019:	title : Default Game
+Sat Dec 14 19:40:13 CST 2019:	window_width : 800
+Sat Dec 14 19:40:13 CST 2019:	window_height : 600
+Sat Dec 14 19:40:13 CST 2019:	resizable : false
+Sat Dec 14 19:40:13 CST 2019:	fps : 60
+Sat Dec 14 19:40:13 CST 2019:	up_key : 87
+Sat Dec 14 19:40:13 CST 2019:	down_key : 83
+Sat Dec 14 19:40:13 CST 2019:	left_key : 65
+Sat Dec 14 19:40:13 CST 2019:	right_key : 68
+Sat Dec 14 19:40:13 CST 2019:	pause_key : 80
+Sat Dec 14 19:40:13 CST 2019:	exit_key : 27
+Sat Dec 14 19:40:13 CST 2019:	Running at 60 FPS as per config file!
+Sat Dec 14 19:40:13 CST 2019:	Key mapping changed! up_key: 87 -> 38
+Sat Dec 14 19:40:45 CST 2019:	Loading config...
+Sat Dec 14 19:40:45 CST 2019:	Config options: 
+Sat Dec 14 19:40:45 CST 2019:	title : Default Game
+Sat Dec 14 19:40:45 CST 2019:	window_width : 800
+Sat Dec 14 19:40:45 CST 2019:	window_height : 600
+Sat Dec 14 19:40:45 CST 2019:	resizable : false
+Sat Dec 14 19:40:45 CST 2019:	fps : 60
+Sat Dec 14 19:40:45 CST 2019:	up_key : 87
+Sat Dec 14 19:40:45 CST 2019:	down_key : 83
+Sat Dec 14 19:40:45 CST 2019:	left_key : 65
+Sat Dec 14 19:40:45 CST 2019:	right_key : 68
+Sat Dec 14 19:40:45 CST 2019:	pause_key : 80
+Sat Dec 14 19:40:45 CST 2019:	exit_key : 27
+Sat Dec 14 19:40:45 CST 2019:	left_mouse : 0
+Sat Dec 14 19:40:45 CST 2019:	right_mouse : 1
+Sat Dec 14 19:40:45 CST 2019:	Running at 60 FPS as per config file!
+Sat Dec 14 19:40:45 CST 2019:	Key mapping changed! up_key: 87 -> 38
+Sat Dec 14 19:41:37 CST 2019:	Loading config...
+Sat Dec 14 19:41:37 CST 2019:	Config options: 
+Sat Dec 14 19:41:37 CST 2019:	title : Default Game
+Sat Dec 14 19:41:37 CST 2019:	window_width : 800
+Sat Dec 14 19:41:37 CST 2019:	window_height : 600
+Sat Dec 14 19:41:37 CST 2019:	resizable : false
+Sat Dec 14 19:41:37 CST 2019:	fps : 60
+Sat Dec 14 19:41:37 CST 2019:	up_key : 87
+Sat Dec 14 19:41:37 CST 2019:	down_key : 83
+Sat Dec 14 19:41:37 CST 2019:	left_key : 65
+Sat Dec 14 19:41:37 CST 2019:	right_key : 68
+Sat Dec 14 19:41:37 CST 2019:	pause_key : 80
+Sat Dec 14 19:41:37 CST 2019:	exit_key : 27
+Sat Dec 14 19:41:37 CST 2019:	left_mouse : 0
+Sat Dec 14 19:41:37 CST 2019:	right_mouse : 1
+Sat Dec 14 19:41:37 CST 2019:	Running at 60 FPS as per config file!
+Sat Dec 14 19:41:37 CST 2019:	Key mapping changed! up_key: 87 -> 38
+Sat Dec 14 19:42:08 CST 2019:	Loading config...
+Sat Dec 14 19:42:08 CST 2019:	Config options: 
+Sat Dec 14 19:42:08 CST 2019:	title : Default Game
+Sat Dec 14 19:42:08 CST 2019:	window_width : 800
+Sat Dec 14 19:42:08 CST 2019:	window_height : 600
+Sat Dec 14 19:42:08 CST 2019:	resizable : false
+Sat Dec 14 19:42:08 CST 2019:	fps : 60
+Sat Dec 14 19:42:08 CST 2019:	up_key : 87
+Sat Dec 14 19:42:08 CST 2019:	down_key : 83
+Sat Dec 14 19:42:08 CST 2019:	left_key : 65
+Sat Dec 14 19:42:08 CST 2019:	right_key : 68
+Sat Dec 14 19:42:08 CST 2019:	pause_key : 80
+Sat Dec 14 19:42:08 CST 2019:	exit_key : 27
+Sat Dec 14 19:42:08 CST 2019:	left_mouse : 0
+Sat Dec 14 19:42:08 CST 2019:	right_mouse : 1
+Sat Dec 14 19:42:08 CST 2019:	Running at 60 FPS as per config file!
+Sat Dec 14 19:42:08 CST 2019:	Key mapping changed! up_key: 87 -> 38
+Sat Dec 14 19:42:39 CST 2019:	Loading config...
+Sat Dec 14 19:42:39 CST 2019:	Config options: 
+Sat Dec 14 19:42:39 CST 2019:	title : Default Game
+Sat Dec 14 19:42:39 CST 2019:	window_width : 800
+Sat Dec 14 19:42:39 CST 2019:	window_height : 600
+Sat Dec 14 19:42:39 CST 2019:	resizable : false
+Sat Dec 14 19:42:39 CST 2019:	fps : 60
+Sat Dec 14 19:42:39 CST 2019:	up_key : 87
+Sat Dec 14 19:42:39 CST 2019:	down_key : 83
+Sat Dec 14 19:42:39 CST 2019:	left_key : 65
+Sat Dec 14 19:42:39 CST 2019:	right_key : 68
+Sat Dec 14 19:42:39 CST 2019:	pause_key : 80
+Sat Dec 14 19:42:39 CST 2019:	exit_key : 27
+Sat Dec 14 19:42:39 CST 2019:	left_mouse : 0
+Sat Dec 14 19:42:39 CST 2019:	right_mouse : 1
+Sat Dec 14 19:42:39 CST 2019:	Running at 60 FPS as per config file!
+Sat Dec 14 19:42:39 CST 2019:	Key mapping changed! up_key: 87 -> 38
+Sat Dec 14 19:43:36 CST 2019:	Loading config...
+Sat Dec 14 19:43:36 CST 2019:	Config options: 
+Sat Dec 14 19:43:36 CST 2019:	title : Default Game
+Sat Dec 14 19:43:36 CST 2019:	window_width : 800
+Sat Dec 14 19:43:36 CST 2019:	window_height : 600
+Sat Dec 14 19:43:36 CST 2019:	resizable : false
+Sat Dec 14 19:43:36 CST 2019:	fps : 60
+Sat Dec 14 19:43:36 CST 2019:	up_key : 87
+Sat Dec 14 19:43:36 CST 2019:	down_key : 83
+Sat Dec 14 19:43:36 CST 2019:	left_key : 65
+Sat Dec 14 19:43:36 CST 2019:	right_key : 68
+Sat Dec 14 19:43:36 CST 2019:	pause_key : 80
+Sat Dec 14 19:43:36 CST 2019:	exit_key : 27
+Sat Dec 14 19:43:36 CST 2019:	left_mouse : 0
+Sat Dec 14 19:43:36 CST 2019:	right_mouse : 1
+Sat Dec 14 19:43:36 CST 2019:	Running at 60 FPS as per config file!
+Sat Dec 14 19:43:36 CST 2019:	Key mapping changed! up_key: 87 -> 38
+Sat Dec 14 19:48:48 CST 2019:	Loading config...
+Sat Dec 14 19:48:48 CST 2019:	Config options: 
+Sat Dec 14 19:48:48 CST 2019:	title : Default Game
+Sat Dec 14 19:48:48 CST 2019:	window_width : 800
+Sat Dec 14 19:48:48 CST 2019:	window_height : 600
+Sat Dec 14 19:48:48 CST 2019:	resizable : false
+Sat Dec 14 19:48:48 CST 2019:	fps : 60
+Sat Dec 14 19:48:48 CST 2019:	up_key : 87
+Sat Dec 14 19:48:48 CST 2019:	down_key : 83
+Sat Dec 14 19:48:48 CST 2019:	left_key : 65
+Sat Dec 14 19:48:48 CST 2019:	right_key : 68
+Sat Dec 14 19:48:48 CST 2019:	pause_key : 80
+Sat Dec 14 19:48:48 CST 2019:	exit_key : 27
+Sat Dec 14 19:48:48 CST 2019:	left_mouse : 0
+Sat Dec 14 19:48:48 CST 2019:	right_mouse : 1
+Sat Dec 14 19:48:48 CST 2019:	Running at 60 FPS as per config file!
+Sat Dec 14 19:48:48 CST 2019:	Key mapping changed! up_key: 87 -> 38
+Sat Dec 14 19:49:14 CST 2019:	Loading config...
+Sat Dec 14 19:49:14 CST 2019:	Config options: 
+Sat Dec 14 19:49:14 CST 2019:	title : Default Game
+Sat Dec 14 19:49:14 CST 2019:	window_width : 800
+Sat Dec 14 19:49:14 CST 2019:	window_height : 600
+Sat Dec 14 19:49:14 CST 2019:	resizable : false
+Sat Dec 14 19:49:14 CST 2019:	fps : 60
+Sat Dec 14 19:49:14 CST 2019:	up_key : 87
+Sat Dec 14 19:49:14 CST 2019:	down_key : 83
+Sat Dec 14 19:49:14 CST 2019:	left_key : 65
+Sat Dec 14 19:49:14 CST 2019:	right_key : 68
+Sat Dec 14 19:49:14 CST 2019:	pause_key : 80
+Sat Dec 14 19:49:14 CST 2019:	exit_key : 27
+Sat Dec 14 19:49:14 CST 2019:	left_mouse : 0
+Sat Dec 14 19:49:14 CST 2019:	right_mouse : 1
+Sat Dec 14 19:49:14 CST 2019:	Running at 60 FPS as per config file!
+Sat Dec 14 19:49:14 CST 2019:	Key mapping changed! up_key: 87 -> 38
+Sat Dec 14 19:51:01 CST 2019:	Loading config...
+Sat Dec 14 19:51:01 CST 2019:	Config options: 
+Sat Dec 14 19:51:01 CST 2019:	title : Default Game
+Sat Dec 14 19:51:01 CST 2019:	window_width : 800
+Sat Dec 14 19:51:01 CST 2019:	window_height : 600
+Sat Dec 14 19:51:01 CST 2019:	resizable : false
+Sat Dec 14 19:51:01 CST 2019:	fps : 60
+Sat Dec 14 19:51:01 CST 2019:	up_key : 87
+Sat Dec 14 19:51:01 CST 2019:	down_key : 83
+Sat Dec 14 19:51:01 CST 2019:	left_key : 65
+Sat Dec 14 19:51:01 CST 2019:	right_key : 68
+Sat Dec 14 19:51:01 CST 2019:	pause_key : 80
+Sat Dec 14 19:51:01 CST 2019:	exit_key : 27
+Sat Dec 14 19:51:01 CST 2019:	left_mouse : 0
+Sat Dec 14 19:51:01 CST 2019:	right_mouse : 1
+Sat Dec 14 19:51:01 CST 2019:	Running at 60 FPS as per config file!
+Sat Dec 14 19:51:01 CST 2019:	Key mapping changed! up_key: 87 -> 38
+Sat Dec 14 19:51:17 CST 2019:	Loading config...
+Sat Dec 14 19:51:17 CST 2019:	Config options: 
+Sat Dec 14 19:51:17 CST 2019:	title : Default Game
+Sat Dec 14 19:51:17 CST 2019:	window_width : 800
+Sat Dec 14 19:51:17 CST 2019:	window_height : 600
+Sat Dec 14 19:51:17 CST 2019:	resizable : false
+Sat Dec 14 19:51:17 CST 2019:	fps : 60
+Sat Dec 14 19:51:17 CST 2019:	up_key : 87
+Sat Dec 14 19:51:17 CST 2019:	down_key : 83
+Sat Dec 14 19:51:17 CST 2019:	left_key : 65
+Sat Dec 14 19:51:17 CST 2019:	right_key : 68
+Sat Dec 14 19:51:17 CST 2019:	pause_key : 80
+Sat Dec 14 19:51:17 CST 2019:	exit_key : 27
+Sat Dec 14 19:51:17 CST 2019:	left_mouse : 0
+Sat Dec 14 19:51:17 CST 2019:	right_mouse : 1
+Sat Dec 14 19:51:17 CST 2019:	Running at 60 FPS as per config file!
+Sat Dec 14 19:51:17 CST 2019:	Key mapping changed! up_key: 87 -> 38
+Sat Dec 14 19:54:13 CST 2019:	Loading config...
+Sat Dec 14 19:54:13 CST 2019:	Config options: 
+Sat Dec 14 19:54:13 CST 2019:	title : Default Game
+Sat Dec 14 19:54:13 CST 2019:	window_width : 800
+Sat Dec 14 19:54:13 CST 2019:	window_height : 600
+Sat Dec 14 19:54:13 CST 2019:	resizable : false
+Sat Dec 14 19:54:13 CST 2019:	fps : 60
+Sat Dec 14 19:54:13 CST 2019:	up_key : 87
+Sat Dec 14 19:54:13 CST 2019:	down_key : 83
+Sat Dec 14 19:54:13 CST 2019:	left_key : 65
+Sat Dec 14 19:54:13 CST 2019:	right_key : 68
+Sat Dec 14 19:54:13 CST 2019:	pause_key : 80
+Sat Dec 14 19:54:13 CST 2019:	exit_key : 27
+Sat Dec 14 19:54:13 CST 2019:	left_mouse : 0
+Sat Dec 14 19:54:13 CST 2019:	right_mouse : 1
+Sat Dec 14 19:54:13 CST 2019:	Running at 60 FPS as per config file!
+Sat Dec 14 19:54:13 CST 2019:	Key mapping changed! up_key: 87 -> 38
+Sat Dec 14 19:54:48 CST 2019:	Loading config...
+Sat Dec 14 19:54:48 CST 2019:	Config options: 
+Sat Dec 14 19:54:48 CST 2019:	title : Default Game
+Sat Dec 14 19:54:48 CST 2019:	window_width : 800
+Sat Dec 14 19:54:48 CST 2019:	window_height : 600
+Sat Dec 14 19:54:48 CST 2019:	resizable : false
+Sat Dec 14 19:54:48 CST 2019:	fps : 60
+Sat Dec 14 19:54:48 CST 2019:	up_key : 87
+Sat Dec 14 19:54:48 CST 2019:	down_key : 83
+Sat Dec 14 19:54:48 CST 2019:	left_key : 65
+Sat Dec 14 19:54:48 CST 2019:	right_key : 68
+Sat Dec 14 19:54:48 CST 2019:	pause_key : 80
+Sat Dec 14 19:54:48 CST 2019:	exit_key : 27
+Sat Dec 14 19:54:48 CST 2019:	left_mouse : 1
+Sat Dec 14 19:54:48 CST 2019:	right_mouse : 3
+Sat Dec 14 19:54:48 CST 2019:	Running at 60 FPS as per config file!
+Sat Dec 14 19:54:48 CST 2019:	Key mapping changed! up_key: 87 -> 38
+Sat Dec 14 19:55:48 CST 2019:	Loading config...
+Sat Dec 14 19:55:48 CST 2019:	Config options: 
+Sat Dec 14 19:55:48 CST 2019:	title : Default Game
+Sat Dec 14 19:55:48 CST 2019:	window_width : 800
+Sat Dec 14 19:55:48 CST 2019:	window_height : 600
+Sat Dec 14 19:55:48 CST 2019:	resizable : false
+Sat Dec 14 19:55:48 CST 2019:	fps : 60
+Sat Dec 14 19:55:48 CST 2019:	up_key : 87
+Sat Dec 14 19:55:48 CST 2019:	down_key : 83
+Sat Dec 14 19:55:48 CST 2019:	left_key : 65
+Sat Dec 14 19:55:48 CST 2019:	right_key : 68
+Sat Dec 14 19:55:48 CST 2019:	pause_key : 80
+Sat Dec 14 19:55:48 CST 2019:	exit_key : 27
+Sat Dec 14 19:55:48 CST 2019:	left_mouse : 1
+Sat Dec 14 19:55:48 CST 2019:	right_mouse : 3
+Sat Dec 14 19:55:48 CST 2019:	Running at 60 FPS as per config file!
+Sat Dec 14 19:55:48 CST 2019:	Key mapping changed! up_key: 87 -> 38
+Sat Dec 14 19:55:50 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:51 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:51 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:51 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:51 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:51 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:51 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:52 CST 2019:	Right mouse button pressed!
+Sat Dec 14 19:55:52 CST 2019:	Right mouse button pressed!
+Sat Dec 14 19:55:52 CST 2019:	Right mouse button pressed!
+Sat Dec 14 19:55:52 CST 2019:	Right mouse button pressed!
+Sat Dec 14 19:55:52 CST 2019:	Right mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:55 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:56 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:56 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:56 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:56 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:56 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:56 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:56 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:56 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:56 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:56 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:56 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:56 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:56 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:56 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:56 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:56 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:55:56 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:57:21 CST 2019:	Loading config...
+Sat Dec 14 19:57:21 CST 2019:	Config options: 
+Sat Dec 14 19:57:21 CST 2019:	title : Default Game
+Sat Dec 14 19:57:21 CST 2019:	window_width : 800
+Sat Dec 14 19:57:21 CST 2019:	window_height : 600
+Sat Dec 14 19:57:21 CST 2019:	resizable : false
+Sat Dec 14 19:57:21 CST 2019:	fps : 60
+Sat Dec 14 19:57:21 CST 2019:	up_key : 87
+Sat Dec 14 19:57:21 CST 2019:	down_key : 83
+Sat Dec 14 19:57:21 CST 2019:	left_key : 65
+Sat Dec 14 19:57:21 CST 2019:	right_key : 68
+Sat Dec 14 19:57:21 CST 2019:	pause_key : 80
+Sat Dec 14 19:57:21 CST 2019:	exit_key : 27
+Sat Dec 14 19:57:21 CST 2019:	left_mouse : 1
+Sat Dec 14 19:57:21 CST 2019:	right_mouse : 3
+Sat Dec 14 19:57:21 CST 2019:	Running at 60 FPS as per config file!
+Sat Dec 14 19:57:21 CST 2019:	Key mapping changed! up_key: 87 -> 38
+Sat Dec 14 19:57:21 CST 2019:	Key mapping changed! left_mouse: 1 -> 4
+Sat Dec 14 19:57:23 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:57:23 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:57:23 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:57:23 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:57:23 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:57:23 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:57:23 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:57:23 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:57:23 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:57:24 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:57:24 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:57:24 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:57:24 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:57:24 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:57:24 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:57:24 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:57:24 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:57:24 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:57:24 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:57:25 CST 2019:	Right mouse button pressed!
+Sat Dec 14 19:57:25 CST 2019:	Right mouse button pressed!
+Sat Dec 14 19:57:25 CST 2019:	Right mouse button pressed!
+Sat Dec 14 19:57:25 CST 2019:	Right mouse button pressed!
+Sat Dec 14 19:57:25 CST 2019:	Right mouse button pressed!
+Sat Dec 14 19:57:25 CST 2019:	Right mouse button pressed!
+Sat Dec 14 19:57:25 CST 2019:	Right mouse button pressed!
+Sat Dec 14 19:57:25 CST 2019:	Right mouse button pressed!
+Sat Dec 14 19:57:25 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:57:25 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:57:25 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:57:26 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:57:26 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:57:26 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:57:26 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:57:26 CST 2019:	Left mouse button pressed!
+Sat Dec 14 19:57:26 CST 2019:	Left mouse button pressed!
+Sat Dec 14 20:00:09 CST 2019:	Loading config...
+Sat Dec 14 20:00:09 CST 2019:	Config options: 
+Sat Dec 14 20:00:52 CST 2019:	Loading config...
+Sat Dec 14 20:00:52 CST 2019:	Config options: 
+Sat Dec 14 20:01:26 CST 2019:	Loading config...
+Sat Dec 14 20:01:26 CST 2019:	Config options: 
+Sat Dec 14 20:01:26 CST 2019:	title : Default Game
+Sat Dec 14 20:01:26 CST 2019:	window_width : 800
+Sat Dec 14 20:01:26 CST 2019:	window_height : 600
+Sat Dec 14 20:01:26 CST 2019:	resizable : false
+Sat Dec 14 20:01:26 CST 2019:	fps : 60
+Sat Dec 14 20:01:26 CST 2019:	up_key : 87
+Sat Dec 14 20:01:26 CST 2019:	down_key : 83
+Sat Dec 14 20:01:26 CST 2019:	left_key : 65
+Sat Dec 14 20:01:26 CST 2019:	right_key : 68
+Sat Dec 14 20:01:26 CST 2019:	pause_key : 80
+Sat Dec 14 20:01:26 CST 2019:	exit_key : 27
+Sat Dec 14 20:01:26 CST 2019:	left_mouse : 1
+Sat Dec 14 20:01:26 CST 2019:	right_mouse : 3
+Sat Dec 14 20:01:26 CST 2019:	middle_mouse : 2
+Sat Dec 14 20:01:26 CST 2019:	Running at 60 FPS as per config file!
+Sat Dec 14 20:01:26 CST 2019:	Key mapping changed! up_key: 87 -> 38
+Sat Dec 14 20:01:29 CST 2019:	Left mouse button pressed!
+Sat Dec 14 20:01:29 CST 2019:	Left mouse button pressed!
+Sat Dec 14 20:01:29 CST 2019:	Left mouse button pressed!
+Sat Dec 14 20:01:29 CST 2019:	Left mouse button pressed!
+Sat Dec 14 20:01:29 CST 2019:	Left mouse button pressed!
+Sat Dec 14 20:01:29 CST 2019:	Left mouse button pressed!
+Sat Dec 14 20:01:29 CST 2019:	Left mouse button pressed!
+Sat Dec 14 20:01:29 CST 2019:	Left mouse button pressed!
+Sat Dec 14 20:01:29 CST 2019:	Right mouse button pressed!
+Sat Dec 14 20:01:29 CST 2019:	Right mouse button pressed!
+Sat Dec 14 20:01:29 CST 2019:	Right mouse button pressed!
+Sat Dec 14 20:01:29 CST 2019:	Right mouse button pressed!
+Sat Dec 14 20:01:29 CST 2019:	Right mouse button pressed!
+Sat Dec 14 20:01:29 CST 2019:	Right mouse button pressed!
+Sat Dec 14 20:01:59 CST 2019:	Loading config...
+Sat Dec 14 20:01:59 CST 2019:	Config options: 
+Sat Dec 14 20:01:59 CST 2019:	title : Default Game
+Sat Dec 14 20:01:59 CST 2019:	window_width : 800
+Sat Dec 14 20:01:59 CST 2019:	window_height : 600
+Sat Dec 14 20:01:59 CST 2019:	resizable : false
+Sat Dec 14 20:01:59 CST 2019:	fps : 60
+Sat Dec 14 20:01:59 CST 2019:	up_key : 87
+Sat Dec 14 20:01:59 CST 2019:	down_key : 83
+Sat Dec 14 20:01:59 CST 2019:	left_key : 65
+Sat Dec 14 20:01:59 CST 2019:	right_key : 68
+Sat Dec 14 20:01:59 CST 2019:	pause_key : 80
+Sat Dec 14 20:01:59 CST 2019:	exit_key : 27
+Sat Dec 14 20:01:59 CST 2019:	left_mouse : 1
+Sat Dec 14 20:01:59 CST 2019:	right_mouse : 3
+Sat Dec 14 20:01:59 CST 2019:	middle_mouse : 2
+Sat Dec 14 20:01:59 CST 2019:	Running at 60 FPS as per config file!
+Sat Dec 14 20:01:59 CST 2019:	Key mapping changed! up_key: 87 -> 38
+Sat Dec 14 20:02:00 CST 2019:	Left mouse button pressed!
+Sat Dec 14 20:02:00 CST 2019:	Left mouse button pressed!
+Sat Dec 14 20:02:00 CST 2019:	Left mouse button pressed!
+Sat Dec 14 20:02:00 CST 2019:	Left mouse button pressed!
+Sat Dec 14 20:02:00 CST 2019:	Left mouse button pressed!
+Sat Dec 14 20:02:01 CST 2019:	Right mouse button pressed!
+Sat Dec 14 20:02:01 CST 2019:	Right mouse button pressed!
+Sat Dec 14 20:02:01 CST 2019:	Right mouse button pressed!
+Sat Dec 14 20:02:01 CST 2019:	Right mouse button pressed!
+Sat Dec 14 20:02:01 CST 2019:	Right mouse button pressed!
+Sat Dec 14 20:10:03 CST 2019:	Loading config...
+Sat Dec 14 20:10:03 CST 2019:	Config options: 
+Sat Dec 14 20:10:03 CST 2019:	title : Default Game
+Sat Dec 14 20:10:03 CST 2019:	window_width : 800
+Sat Dec 14 20:10:03 CST 2019:	window_height : 600
+Sat Dec 14 20:10:03 CST 2019:	resizable : false
+Sat Dec 14 20:10:03 CST 2019:	fps : 60
+Sat Dec 14 20:10:03 CST 2019:	up_key : 87
+Sat Dec 14 20:10:03 CST 2019:	down_key : 83
+Sat Dec 14 20:10:03 CST 2019:	left_key : 65
+Sat Dec 14 20:10:03 CST 2019:	right_key : 68
+Sat Dec 14 20:10:03 CST 2019:	pause_key : 80
+Sat Dec 14 20:10:03 CST 2019:	exit_key : 27
+Sat Dec 14 20:10:03 CST 2019:	left_mouse : 1
+Sat Dec 14 20:10:03 CST 2019:	right_mouse : 3
+Sat Dec 14 20:10:03 CST 2019:	middle_mouse : 2
+Sat Dec 14 20:10:03 CST 2019:	Running at 60 FPS as per config file!
+Sat Dec 14 20:10:05 CST 2019:	COLLISION!
+Sat Dec 14 20:10:05 CST 2019:	COLLISION!
+Sat Dec 14 20:10:05 CST 2019:	COLLISION!
+Sat Dec 14 20:10:05 CST 2019:	COLLISION!
+Sat Dec 14 20:10:05 CST 2019:	COLLISION!
+Sat Dec 14 20:10:05 CST 2019:	COLLISION!
+Sat Dec 14 20:10:05 CST 2019:	COLLISION!
+Sat Dec 14 20:10:06 CST 2019:	COLLISION!
+Sat Dec 14 20:10:06 CST 2019:	COLLISION!
+Sat Dec 14 20:10:06 CST 2019:	COLLISION!
+Sat Dec 14 20:10:06 CST 2019:	COLLISION!
+Sat Dec 14 20:10:06 CST 2019:	COLLISION!
+Sat Dec 14 20:10:06 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:08 CST 2019:	COLLISION!
+Sat Dec 14 20:10:08 CST 2019:	COLLISION!
+Sat Dec 14 20:10:08 CST 2019:	COLLISION!
+Sat Dec 14 20:10:08 CST 2019:	COLLISION!
+Sat Dec 14 20:10:08 CST 2019:	COLLISION!
+Sat Dec 14 20:10:08 CST 2019:	COLLISION!
+Sat Dec 14 20:10:08 CST 2019:	COLLISION!
+Sat Dec 14 20:10:08 CST 2019:	COLLISION!
+Sat Dec 14 20:10:08 CST 2019:	COLLISION!
+Sat Dec 14 20:10:08 CST 2019:	COLLISION!
+Sat Dec 14 20:10:08 CST 2019:	COLLISION!
+Sat Dec 14 20:10:08 CST 2019:	COLLISION!
+Sat Dec 14 20:10:08 CST 2019:	COLLISION!
+Sat Dec 14 20:10:08 CST 2019:	COLLISION!
+Sat Dec 14 20:10:08 CST 2019:	COLLISION!
+Sat Dec 14 20:10:08 CST 2019:	COLLISION!
+Sat Dec 14 20:10:08 CST 2019:	COLLISION!
+Sat Dec 14 20:10:08 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:12 CST 2019:	COLLISION!
+Sat Dec 14 20:10:12 CST 2019:	COLLISION!
+Sat Dec 14 20:10:12 CST 2019:	COLLISION!
+Sat Dec 14 20:10:12 CST 2019:	COLLISION!
+Sat Dec 14 20:10:12 CST 2019:	COLLISION!
+Sat Dec 14 20:10:12 CST 2019:	COLLISION!
+Sat Dec 14 20:10:12 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:14 CST 2019:	COLLISION!
+Sat Dec 14 20:10:14 CST 2019:	COLLISION!
+Sat Dec 14 20:10:14 CST 2019:	COLLISION!
+Sat Dec 14 20:10:14 CST 2019:	COLLISION!
+Sat Dec 14 20:10:14 CST 2019:	COLLISION!
+Sat Dec 14 20:10:14 CST 2019:	COLLISION!
+Sat Dec 14 20:10:14 CST 2019:	COLLISION!
+Sat Dec 14 20:10:14 CST 2019:	COLLISION!
+Sat Dec 14 20:10:15 CST 2019:	COLLISION!
+Sat Dec 14 20:10:15 CST 2019:	COLLISION!
+Sat Dec 14 20:10:15 CST 2019:	COLLISION!
+Sat Dec 14 20:10:15 CST 2019:	COLLISION!
+Sat Dec 14 20:10:15 CST 2019:	COLLISION!
+Sat Dec 14 20:10:15 CST 2019:	COLLISION!
+Sat Dec 14 20:10:15 CST 2019:	COLLISION!
+Sat Dec 14 20:10:17 CST 2019:	COLLISION!
+Sat Dec 14 20:10:17 CST 2019:	COLLISION!
+Sat Dec 14 20:10:17 CST 2019:	COLLISION!
+Sat Dec 14 20:10:17 CST 2019:	COLLISION!
+Sat Dec 14 20:10:17 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:23 CST 2019:	Left mouse button pressed!
+Sat Dec 14 20:10:23 CST 2019:	Left mouse button pressed!
+Sat Dec 14 20:10:23 CST 2019:	Left mouse button pressed!
+Sat Dec 14 20:10:23 CST 2019:	Left mouse button pressed!
+Sat Dec 14 20:10:23 CST 2019:	Left mouse button pressed!
+Sat Dec 14 20:10:23 CST 2019:	Left mouse button pressed!
+Sat Dec 14 20:10:23 CST 2019:	Left mouse button pressed!
+Sat Dec 14 20:10:24 CST 2019:	Right mouse button pressed!
+Sat Dec 14 20:10:24 CST 2019:	Right mouse button pressed!
+Sat Dec 14 20:10:24 CST 2019:	Right mouse button pressed!
+Sat Dec 14 20:10:24 CST 2019:	Right mouse button pressed!
+Sat Dec 14 20:10:24 CST 2019:	Right mouse button pressed!
+Sat Dec 14 20:10:24 CST 2019:	Right mouse button pressed!
+Sat Dec 14 20:10:24 CST 2019:	Right mouse button pressed!
+Sat Dec 14 20:10:29 CST 2019:	COLLISION!
+Sat Dec 14 20:10:29 CST 2019:	COLLISION!
+Sat Dec 14 20:10:29 CST 2019:	COLLISION!
+Sat Dec 14 20:10:29 CST 2019:	COLLISION!
+Sat Dec 14 20:10:29 CST 2019:	COLLISION!
+Sat Dec 14 20:10:29 CST 2019:	COLLISION!
+Sat Dec 14 20:10:29 CST 2019:	COLLISION!
+Sat Dec 14 20:10:29 CST 2019:	COLLISION!
+Sat Dec 14 20:10:29 CST 2019:	COLLISION!
+Sat Dec 14 20:10:29 CST 2019:	COLLISION!
+Sat Dec 14 20:10:34 CST 2019:	COLLISION!
+Sat Dec 14 20:10:34 CST 2019:	COLLISION!
+Sat Dec 14 20:10:34 CST 2019:	COLLISION!
+Sat Dec 14 20:10:34 CST 2019:	COLLISION!
+Sat Dec 14 20:10:34 CST 2019:	COLLISION!
+Sat Dec 14 20:10:35 CST 2019:	COLLISION!
+Sat Dec 14 20:10:35 CST 2019:	COLLISION!
+Sat Dec 14 20:10:35 CST 2019:	COLLISION!
+Sat Dec 14 20:10:35 CST 2019:	COLLISION!
+Sat Dec 14 20:10:35 CST 2019:	COLLISION!
+Sat Dec 14 20:10:35 CST 2019:	COLLISION!
+Sat Dec 14 20:10:35 CST 2019:	COLLISION!
+Sat Dec 14 20:10:35 CST 2019:	COLLISION!

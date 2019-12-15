@@ -15,7 +15,7 @@ public class GameState extends State
     @Override
     public void tick()
     {
-        for (GameObject g : getStateObjects())
+        for (GameObject g : getStateObjects().values())
         {
             g.tick();
         }
@@ -24,7 +24,7 @@ public class GameState extends State
     @Override
     public void render(Graphics2D g2d)
     {
-        for (GameObject g : getStateObjects())
+        for (GameObject g : getStateObjects().values())
         {
             g.render(g2d);
         }

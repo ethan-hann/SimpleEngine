@@ -186,6 +186,12 @@ public class Files
         int equalsIndex;
         String key;
         String value;
+
+        if (optString.startsWith("//") || optString.isBlank()) //If the line starts with a comment, skip it
+        {
+            return;
+        }
+
         if (optString.contains("//")) //If the line contains a comment, take it into account
         {
             commentIndex = optString.indexOf("//");
