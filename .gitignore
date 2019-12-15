@@ -1,2 +1,6 @@
 
 *.wav
+out/production/2DEngine/logs/log.txt
+res/logs/log.txt
+out/production/2DEngine/logs/log.txt
+res/logs/log.txt
