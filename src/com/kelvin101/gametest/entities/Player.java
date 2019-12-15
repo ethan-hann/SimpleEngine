@@ -45,15 +45,15 @@ public class Player extends GameObject
         }
         if (InputManager.getInstance().isMousePressed("left_mouse"))
         {
-            AudioManager.getInstance().playClip("testClip");
+            AudioManager.getInstance().resumeClip("testClip");
         }
         if (InputManager.getInstance().isMousePressed("right_mouse"))
         {
             AudioManager.getInstance().pauseClip("testClip");
         }
-        if (InputManager.getInstance().isKeyPressed("pause_key"))
+        if (InputManager.getInstance().isMousePressed("middle_mouse"))
         {
-            AudioManager.getInstance().seek("testClip", 500);
+            AudioManager.getInstance().seek("testClip", 5000L);
         }
     }
 

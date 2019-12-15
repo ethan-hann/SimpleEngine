@@ -17,6 +17,7 @@ public class EngineLauncher
 {
     public static void main(String[] args)
     {
+        /*new WelcomeScreen().setup().display();*/
         Game.getInstance();
         Vector2f playerPos = new Vector2f(600, 200);
         Dimension playerSize = new Dimension(32, 32);
@@ -41,10 +42,8 @@ public class EngineLauncher
                 .getStateObjects()
                 .put("obstacle", obstacle);
         StateManager.getInstance().setCurrentState(gameState);
-        AudioManager.getInstance().addAudioClip("./res/audio/test.wav", "testClip", false);
-        AudioManager.getInstance().addAudioClip("./res/audio/ambientBackground.wav", "bg", true);
-        AudioManager.getInstance().setVolume("testClip", 0.3);
-        AudioManager.getInstance().setVolume("bg", 1.0);
-        //InputManager.getInstance().changeKeyMapping(38, "up_key");
+        AudioManager.getInstance().addAudioClip("./res/audio/test.wav", "testClip", 0);
+        AudioManager.getInstance().setVolume("testClip", 0.1);
+//        InputManager.getInstance().changeKeyMapping(38, "up_key");
     }
 }

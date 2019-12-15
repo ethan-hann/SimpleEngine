@@ -7,14 +7,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38922ead-74fb-4908-b10d-32ce0f86b4db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/res/audio/ambientBackground.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/audio/test.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kelvin101/engine/audio/AudioManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kelvin101/ui/WelcomeScreen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2DEngine/com/kelvin101/engine/audio/AudioManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2DEngine/com/kelvin101/engine/audio/AudioManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2DEngine/com/kelvin101/engine/base/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2DEngine/com/kelvin101/engine/base/Game.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2DEngine/com/kelvin101/engine/gui/ConfigGUI.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/2DEngine/com/kelvin101/gametest/EngineLauncher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2DEngine/com/kelvin101/gametest/EngineLauncher.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/2DEngine/com/kelvin101/gametest/entities/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2DEngine/com/kelvin101/gametest/entities/Player.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/2DEngine/logs/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2DEngine/logs/log.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/res/logs/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/logs/log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kelvin101/engine/audio/AudioManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kelvin101/engine/audio/AudioManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kelvin101/engine/base/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kelvin101/engine/base/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kelvin101/engine/gui/ConfigGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kelvin101/ui/ConfigGUI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/kelvin101/gametest/EngineLauncher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kelvin101/gametest/EngineLauncher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/kelvin101/gametest/entities/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kelvin101/gametest/entities/Player.java" afterDir="false" />
     </list>
@@ -30,8 +34,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -66,7 +70,7 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15332031" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">

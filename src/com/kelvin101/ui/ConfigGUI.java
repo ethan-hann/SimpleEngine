@@ -1,4 +1,4 @@
-package com.kelvin101.engine.gui;
+package com.kelvin101.ui;
 
 import com.kelvin101.engine.files.Global;
 

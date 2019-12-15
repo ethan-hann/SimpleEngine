@@ -4,7 +4,7 @@ import com.kelvin101.engine.config.Config;
 import com.kelvin101.engine.files.Files;
 import com.kelvin101.engine.gamestates.StateManager;
 import com.kelvin101.engine.graphics.Display;
-import com.kelvin101.engine.gui.ConfigGUI;
+import com.kelvin101.ui.ConfigGUI;
 import com.kelvin101.engine.logger.Logger;
 
 import java.awt.*;

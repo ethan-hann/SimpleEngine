@@ -437,3 +437,1248 @@ Sat Dec 14 20:02:01 CST 2019:	Right mouse button pressed!
 Sat Dec 14 20:02:01 CST 2019:	Right mouse button pressed!
 Sat Dec 14 20:02:01 CST 2019:	Right mouse button pressed!
 Sat Dec 14 20:02:01 CST 2019:	Right mouse button pressed!
+Sat Dec 14 20:10:03 CST 2019:	Loading config...
+Sat Dec 14 20:10:03 CST 2019:	Config options: 
+Sat Dec 14 20:10:03 CST 2019:	title : Default Game
+Sat Dec 14 20:10:03 CST 2019:	window_width : 800
+Sat Dec 14 20:10:03 CST 2019:	window_height : 600
+Sat Dec 14 20:10:03 CST 2019:	resizable : false
+Sat Dec 14 20:10:03 CST 2019:	fps : 60
+Sat Dec 14 20:10:03 CST 2019:	up_key : 87
+Sat Dec 14 20:10:03 CST 2019:	down_key : 83
+Sat Dec 14 20:10:03 CST 2019:	left_key : 65
+Sat Dec 14 20:10:03 CST 2019:	right_key : 68
+Sat Dec 14 20:10:03 CST 2019:	pause_key : 80
+Sat Dec 14 20:10:03 CST 2019:	exit_key : 27
+Sat Dec 14 20:10:03 CST 2019:	left_mouse : 1
+Sat Dec 14 20:10:03 CST 2019:	right_mouse : 3
+Sat Dec 14 20:10:03 CST 2019:	middle_mouse : 2
+Sat Dec 14 20:10:03 CST 2019:	Running at 60 FPS as per config file!
+Sat Dec 14 20:10:05 CST 2019:	COLLISION!
+Sat Dec 14 20:10:05 CST 2019:	COLLISION!
+Sat Dec 14 20:10:05 CST 2019:	COLLISION!
+Sat Dec 14 20:10:05 CST 2019:	COLLISION!
+Sat Dec 14 20:10:05 CST 2019:	COLLISION!
+Sat Dec 14 20:10:05 CST 2019:	COLLISION!
+Sat Dec 14 20:10:05 CST 2019:	COLLISION!
+Sat Dec 14 20:10:06 CST 2019:	COLLISION!
+Sat Dec 14 20:10:06 CST 2019:	COLLISION!
+Sat Dec 14 20:10:06 CST 2019:	COLLISION!
+Sat Dec 14 20:10:06 CST 2019:	COLLISION!
+Sat Dec 14 20:10:06 CST 2019:	COLLISION!
+Sat Dec 14 20:10:06 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:07 CST 2019:	COLLISION!
+Sat Dec 14 20:10:08 CST 2019:	COLLISION!
+Sat Dec 14 20:10:08 CST 2019:	COLLISION!
+Sat Dec 14 20:10:08 CST 2019:	COLLISION!
+Sat Dec 14 20:10:08 CST 2019:	COLLISION!
+Sat Dec 14 20:10:08 CST 2019:	COLLISION!
+Sat Dec 14 20:10:08 CST 2019:	COLLISION!
+Sat Dec 14 20:10:08 CST 2019:	COLLISION!
+Sat Dec 14 20:10:08 CST 2019:	COLLISION!
+Sat Dec 14 20:10:08 CST 2019:	COLLISION!
+Sat Dec 14 20:10:08 CST 2019:	COLLISION!
+Sat Dec 14 20:10:08 CST 2019:	COLLISION!
+Sat Dec 14 20:10:08 CST 2019:	COLLISION!
+Sat Dec 14 20:10:08 CST 2019:	COLLISION!
+Sat Dec 14 20:10:08 CST 2019:	COLLISION!
+Sat Dec 14 20:10:08 CST 2019:	COLLISION!
+Sat Dec 14 20:10:08 CST 2019:	COLLISION!
+Sat Dec 14 20:10:08 CST 2019:	COLLISION!
+Sat Dec 14 20:10:08 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:11 CST 2019:	COLLISION!
+Sat Dec 14 20:10:12 CST 2019:	COLLISION!
+Sat Dec 14 20:10:12 CST 2019:	COLLISION!
+Sat Dec 14 20:10:12 CST 2019:	COLLISION!
+Sat Dec 14 20:10:12 CST 2019:	COLLISION!
+Sat Dec 14 20:10:12 CST 2019:	COLLISION!
+Sat Dec 14 20:10:12 CST 2019:	COLLISION!
+Sat Dec 14 20:10:12 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:13 CST 2019:	COLLISION!
+Sat Dec 14 20:10:14 CST 2019:	COLLISION!
+Sat Dec 14 20:10:14 CST 2019:	COLLISION!
+Sat Dec 14 20:10:14 CST 2019:	COLLISION!
+Sat Dec 14 20:10:14 CST 2019:	COLLISION!
+Sat Dec 14 20:10:14 CST 2019:	COLLISION!
+Sat Dec 14 20:10:14 CST 2019:	COLLISION!
+Sat Dec 14 20:10:14 CST 2019:	COLLISION!
+Sat Dec 14 20:10:14 CST 2019:	COLLISION!
+Sat Dec 14 20:10:15 CST 2019:	COLLISION!
+Sat Dec 14 20:10:15 CST 2019:	COLLISION!
+Sat Dec 14 20:10:15 CST 2019:	COLLISION!
+Sat Dec 14 20:10:15 CST 2019:	COLLISION!
+Sat Dec 14 20:10:15 CST 2019:	COLLISION!
+Sat Dec 14 20:10:15 CST 2019:	COLLISION!
+Sat Dec 14 20:10:15 CST 2019:	COLLISION!
+Sat Dec 14 20:10:17 CST 2019:	COLLISION!
+Sat Dec 14 20:10:17 CST 2019:	COLLISION!
+Sat Dec 14 20:10:17 CST 2019:	COLLISION!
+Sat Dec 14 20:10:17 CST 2019:	COLLISION!
+Sat Dec 14 20:10:17 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:18 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:19 CST 2019:	COLLISION!
+Sat Dec 14 20:10:23 CST 2019:	Left mouse button pressed!
+Sat Dec 14 20:10:23 CST 2019:	Left mouse button pressed!
+Sat Dec 14 20:10:23 CST 2019:	Left mouse button pressed!
+Sat Dec 14 20:10:23 CST 2019:	Left mouse button pressed!
+Sat Dec 14 20:10:23 CST 2019:	Left mouse button pressed!
+Sat Dec 14 20:10:23 CST 2019:	Left mouse button pressed!
+Sat Dec 14 20:10:23 CST 2019:	Left mouse button pressed!
+Sat Dec 14 20:10:24 CST 2019:	Right mouse button pressed!
+Sat Dec 14 20:10:24 CST 2019:	Right mouse button pressed!
+Sat Dec 14 20:10:24 CST 2019:	Right mouse button pressed!
+Sat Dec 14 20:10:24 CST 2019:	Right mouse button pressed!
+Sat Dec 14 20:10:24 CST 2019:	Right mouse button pressed!
+Sat Dec 14 20:10:24 CST 2019:	Right mouse button pressed!
+Sat Dec 14 20:10:24 CST 2019:	Right mouse button pressed!
+Sat Dec 14 20:10:29 CST 2019:	COLLISION!
+Sat Dec 14 20:10:29 CST 2019:	COLLISION!
+Sat Dec 14 20:10:29 CST 2019:	COLLISION!
+Sat Dec 14 20:10:29 CST 2019:	COLLISION!
+Sat Dec 14 20:10:29 CST 2019:	COLLISION!
+Sat Dec 14 20:10:29 CST 2019:	COLLISION!
+Sat Dec 14 20:10:29 CST 2019:	COLLISION!
+Sat Dec 14 20:10:29 CST 2019:	COLLISION!
+Sat Dec 14 20:10:29 CST 2019:	COLLISION!
+Sat Dec 14 20:10:29 CST 2019:	COLLISION!
+Sat Dec 14 20:10:34 CST 2019:	COLLISION!
+Sat Dec 14 20:10:34 CST 2019:	COLLISION!
+Sat Dec 14 20:10:34 CST 2019:	COLLISION!
+Sat Dec 14 20:10:34 CST 2019:	COLLISION!
+Sat Dec 14 20:10:34 CST 2019:	COLLISION!
+Sat Dec 14 20:10:35 CST 2019:	COLLISION!
+Sat Dec 14 20:10:35 CST 2019:	COLLISION!
+Sat Dec 14 20:10:35 CST 2019:	COLLISION!
+Sat Dec 14 20:10:35 CST 2019:	COLLISION!
+Sat Dec 14 20:10:35 CST 2019:	COLLISION!
+Sat Dec 14 20:10:35 CST 2019:	COLLISION!
+Sat Dec 14 20:10:35 CST 2019:	COLLISION!
+Sat Dec 14 20:10:35 CST 2019:	COLLISION!
+Sun Dec 15 12:13:24 CST 2019:	Loading config...
+Sun Dec 15 12:13:24 CST 2019:	Config options: 
+Sun Dec 15 12:13:24 CST 2019:	title : Default Game
+Sun Dec 15 12:13:24 CST 2019:	window_width : 800
+Sun Dec 15 12:13:24 CST 2019:	window_height : 600
+Sun Dec 15 12:13:24 CST 2019:	resizable : false
+Sun Dec 15 12:13:24 CST 2019:	fps : 60
+Sun Dec 15 12:13:24 CST 2019:	up_key : 87
+Sun Dec 15 12:13:24 CST 2019:	down_key : 83
+Sun Dec 15 12:13:24 CST 2019:	left_key : 65
+Sun Dec 15 12:13:24 CST 2019:	right_key : 68
+Sun Dec 15 12:13:24 CST 2019:	pause_key : 80
+Sun Dec 15 12:13:24 CST 2019:	exit_key : 27
+Sun Dec 15 12:13:24 CST 2019:	left_mouse : 1
+Sun Dec 15 12:13:24 CST 2019:	right_mouse : 3
+Sun Dec 15 12:13:24 CST 2019:	middle_mouse : 2
+Sun Dec 15 12:13:24 CST 2019:	Running at 60 FPS as per config file!
+Sun Dec 15 12:13:24 CST 2019:	Key mapping changed! up_key: 87 -> 38
+Sun Dec 15 12:37:58 CST 2019:	Loading config...
+Sun Dec 15 12:37:58 CST 2019:	Config options: 
+Sun Dec 15 12:37:58 CST 2019:	title : Default Game
+Sun Dec 15 12:37:58 CST 2019:	window_width : 800
+Sun Dec 15 12:37:58 CST 2019:	window_height : 600
+Sun Dec 15 12:37:58 CST 2019:	resizable : false
+Sun Dec 15 12:37:58 CST 2019:	fps : 60
+Sun Dec 15 12:37:58 CST 2019:	up_key : 87
+Sun Dec 15 12:37:58 CST 2019:	down_key : 83
+Sun Dec 15 12:37:58 CST 2019:	left_key : 65
+Sun Dec 15 12:37:58 CST 2019:	right_key : 68
+Sun Dec 15 12:37:58 CST 2019:	pause_key : 80
+Sun Dec 15 12:37:58 CST 2019:	exit_key : 27
+Sun Dec 15 12:37:58 CST 2019:	left_mouse : 1
+Sun Dec 15 12:37:58 CST 2019:	right_mouse : 3
+Sun Dec 15 12:37:58 CST 2019:	middle_mouse : 2
+Sun Dec 15 12:37:58 CST 2019:	Running at 60 FPS as per config file!
+Sun Dec 15 12:37:58 CST 2019:	Key mapping changed! up_key: 87 -> 38
+Sun Dec 15 12:41:07 CST 2019:	Loading config...
+Sun Dec 15 12:41:07 CST 2019:	Config options: 
+Sun Dec 15 12:41:07 CST 2019:	title : Default Game
+Sun Dec 15 12:41:07 CST 2019:	window_width : 800
+Sun Dec 15 12:41:07 CST 2019:	window_height : 600
+Sun Dec 15 12:41:07 CST 2019:	resizable : false
+Sun Dec 15 12:41:07 CST 2019:	fps : 60
+Sun Dec 15 12:41:07 CST 2019:	up_key : 87
+Sun Dec 15 12:41:07 CST 2019:	down_key : 83
+Sun Dec 15 12:41:07 CST 2019:	left_key : 65
+Sun Dec 15 12:41:07 CST 2019:	right_key : 68
+Sun Dec 15 12:41:07 CST 2019:	pause_key : 80
+Sun Dec 15 12:41:07 CST 2019:	exit_key : 27
+Sun Dec 15 12:41:07 CST 2019:	left_mouse : 1
+Sun Dec 15 12:41:07 CST 2019:	right_mouse : 3
+Sun Dec 15 12:41:07 CST 2019:	middle_mouse : 2
+Sun Dec 15 12:41:07 CST 2019:	Running at 60 FPS as per config file!
+Sun Dec 15 12:41:07 CST 2019:	Key mapping changed! up_key: 87 -> 38
+Sun Dec 15 12:41:21 CST 2019:	Loading config...
+Sun Dec 15 12:41:21 CST 2019:	Config options: 
+Sun Dec 15 12:41:21 CST 2019:	title : Default Game
+Sun Dec 15 12:41:21 CST 2019:	window_width : 800
+Sun Dec 15 12:41:21 CST 2019:	window_height : 600
+Sun Dec 15 12:41:21 CST 2019:	resizable : false
+Sun Dec 15 12:41:21 CST 2019:	fps : 60
+Sun Dec 15 12:41:21 CST 2019:	up_key : 87
+Sun Dec 15 12:41:21 CST 2019:	down_key : 83
+Sun Dec 15 12:41:21 CST 2019:	left_key : 65
+Sun Dec 15 12:41:21 CST 2019:	right_key : 68
+Sun Dec 15 12:41:21 CST 2019:	pause_key : 80
+Sun Dec 15 12:41:21 CST 2019:	exit_key : 27
+Sun Dec 15 12:41:21 CST 2019:	left_mouse : 1
+Sun Dec 15 12:41:21 CST 2019:	right_mouse : 3
+Sun Dec 15 12:41:21 CST 2019:	middle_mouse : 2
+Sun Dec 15 12:41:21 CST 2019:	Running at 60 FPS as per config file!
+Sun Dec 15 12:41:21 CST 2019:	Key mapping changed! up_key: 87 -> 38
+Sun Dec 15 12:43:07 CST 2019:	Loading config...
+Sun Dec 15 12:43:07 CST 2019:	Config options: 
+Sun Dec 15 12:43:07 CST 2019:	title : Default Game
+Sun Dec 15 12:43:07 CST 2019:	window_width : 800
+Sun Dec 15 12:43:07 CST 2019:	window_height : 600
+Sun Dec 15 12:43:07 CST 2019:	resizable : false
+Sun Dec 15 12:43:07 CST 2019:	fps : 60
+Sun Dec 15 12:43:07 CST 2019:	up_key : 87
+Sun Dec 15 12:43:07 CST 2019:	down_key : 83
+Sun Dec 15 12:43:07 CST 2019:	left_key : 65
+Sun Dec 15 12:43:07 CST 2019:	right_key : 68
+Sun Dec 15 12:43:07 CST 2019:	pause_key : 80
+Sun Dec 15 12:43:07 CST 2019:	exit_key : 27
+Sun Dec 15 12:43:07 CST 2019:	left_mouse : 1
+Sun Dec 15 12:43:07 CST 2019:	right_mouse : 3
+Sun Dec 15 12:43:07 CST 2019:	middle_mouse : 2
+Sun Dec 15 12:43:07 CST 2019:	Running at 60 FPS as per config file!
+Sun Dec 15 12:43:07 CST 2019:	Key mapping changed! up_key: 87 -> 38
+Sun Dec 15 12:43:08 CST 2019:	clip pos: 0
+Sun Dec 15 12:43:08 CST 2019:	clip pos: 500
+Sun Dec 15 12:43:08 CST 2019:	clip pos: 498
+Sun Dec 15 12:43:08 CST 2019:	clip pos: 500
+Sun Dec 15 12:43:08 CST 2019:	clip pos: 498
+Sun Dec 15 12:43:08 CST 2019:	clip pos: 500
+Sun Dec 15 12:43:08 CST 2019:	clip pos: 498
+Sun Dec 15 12:43:08 CST 2019:	clip pos: 500
+Sun Dec 15 12:43:09 CST 2019:	clip pos: 498
+Sun Dec 15 12:43:09 CST 2019:	clip pos: 500
+Sun Dec 15 12:43:09 CST 2019:	clip pos: 498
+Sun Dec 15 12:43:09 CST 2019:	clip pos: 500
+Sun Dec 15 12:43:09 CST 2019:	clip pos: 498
+Sun Dec 15 12:43:09 CST 2019:	clip pos: 500
+Sun Dec 15 12:43:09 CST 2019:	clip pos: 498
+Sun Dec 15 12:43:09 CST 2019:	clip pos: 500
+Sun Dec 15 12:43:09 CST 2019:	clip pos: 498
+Sun Dec 15 12:43:09 CST 2019:	clip pos: 500
+Sun Dec 15 12:43:09 CST 2019:	clip pos: 498
+Sun Dec 15 12:43:09 CST 2019:	clip pos: 500
+Sun Dec 15 12:43:11 CST 2019:	clip pos: 351247
+Sun Dec 15 12:43:11 CST 2019:	clip pos: 500
+Sun Dec 15 12:43:11 CST 2019:	clip pos: 498
+Sun Dec 15 12:43:11 CST 2019:	clip pos: 500
+Sun Dec 15 12:43:11 CST 2019:	clip pos: 498
+Sun Dec 15 12:43:11 CST 2019:	clip pos: 500
+Sun Dec 15 12:43:11 CST 2019:	clip pos: 498
+Sun Dec 15 12:43:11 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:23 CST 2019:	Loading config...
+Sun Dec 15 12:51:23 CST 2019:	Config options: 
+Sun Dec 15 12:51:23 CST 2019:	title : Default Game
+Sun Dec 15 12:51:23 CST 2019:	window_width : 800
+Sun Dec 15 12:51:23 CST 2019:	window_height : 600
+Sun Dec 15 12:51:23 CST 2019:	resizable : false
+Sun Dec 15 12:51:23 CST 2019:	fps : 60
+Sun Dec 15 12:51:23 CST 2019:	up_key : 87
+Sun Dec 15 12:51:23 CST 2019:	down_key : 83
+Sun Dec 15 12:51:23 CST 2019:	left_key : 65
+Sun Dec 15 12:51:23 CST 2019:	right_key : 68
+Sun Dec 15 12:51:23 CST 2019:	pause_key : 80
+Sun Dec 15 12:51:23 CST 2019:	exit_key : 27
+Sun Dec 15 12:51:23 CST 2019:	left_mouse : 1
+Sun Dec 15 12:51:23 CST 2019:	right_mouse : 3
+Sun Dec 15 12:51:23 CST 2019:	middle_mouse : 2
+Sun Dec 15 12:51:23 CST 2019:	Running at 60 FPS as per config file!
+Sun Dec 15 12:51:23 CST 2019:	Key mapping changed! up_key: 87 -> 38
+Sun Dec 15 12:51:24 CST 2019:	clip pos: 450748
+Sun Dec 15 12:51:24 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:24 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:24 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:24 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:24 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:24 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:24 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:24 CST 2019:	clip pos: 20498
+Sun Dec 15 12:51:24 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:24 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:24 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:24 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:24 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:24 CST 2019:	clip pos: 10498
+Sun Dec 15 12:51:24 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:24 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:24 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:24 CST 2019:	clip pos: 20498
+Sun Dec 15 12:51:24 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:24 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:24 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:24 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:24 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:24 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:24 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:24 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:24 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:24 CST 2019:	clip pos: 10498
+Sun Dec 15 12:51:24 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:24 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:24 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:24 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:24 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:24 CST 2019:	clip pos: 10498
+Sun Dec 15 12:51:24 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:24 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:24 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:24 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:24 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:24 CST 2019:	clip pos: 20498
+Sun Dec 15 12:51:24 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:24 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 20498
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 20498
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 10498
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 20498
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 10498
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 10498
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 10498
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 20498
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 10498
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 20498
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 10498
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 10498
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:25 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 40498
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 10498
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 10498
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 20498
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 20498
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 10498
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 20498
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 20498
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 10498
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 10498
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 20498
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 20498
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:26 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 340498
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 20498
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 10498
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 20498
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 10498
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 20498
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 10498
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 20498
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 10498
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 20498
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:27 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:29 CST 2019:	clip pos: 2050498
+Sun Dec 15 12:51:29 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 20498
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 20498
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 10498
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 10498
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 10498
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 20498
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 20498
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 20498
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 10498
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 20498
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 10498
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 20498
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 20498
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 20498
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:30 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 20498
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 10498
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 10498
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 20498
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 20498
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 20498
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 20498
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 10498
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 10498
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 20498
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 10498
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 20498
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 10498
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 10498
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 20498
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 20498
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 20498
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 10498
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:31 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:32 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:32 CST 2019:	clip pos: 10498
+Sun Dec 15 12:51:32 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:32 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:32 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:32 CST 2019:	clip pos: 20498
+Sun Dec 15 12:51:32 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:32 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:32 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:32 CST 2019:	clip pos: 10498
+Sun Dec 15 12:51:32 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:32 CST 2019:	clip pos: 498
+Sun Dec 15 12:51:32 CST 2019:	clip pos: 500
+Sun Dec 15 12:51:32 CST 2019:	clip pos: 20498
+Sun Dec 15 12:51:32 CST 2019:	clip pos: 500
+Sun Dec 15 12:52:01 CST 2019:	Loading config...
+Sun Dec 15 12:52:01 CST 2019:	Config options: 
+Sun Dec 15 12:52:01 CST 2019:	title : Default Game
+Sun Dec 15 12:52:01 CST 2019:	window_width : 800
+Sun Dec 15 12:52:01 CST 2019:	window_height : 600
+Sun Dec 15 12:52:01 CST 2019:	resizable : false
+Sun Dec 15 12:52:01 CST 2019:	fps : 60
+Sun Dec 15 12:52:01 CST 2019:	up_key : 87
+Sun Dec 15 12:52:01 CST 2019:	down_key : 83
+Sun Dec 15 12:52:01 CST 2019:	left_key : 65
+Sun Dec 15 12:52:01 CST 2019:	right_key : 68
+Sun Dec 15 12:52:01 CST 2019:	pause_key : 80
+Sun Dec 15 12:52:01 CST 2019:	exit_key : 27
+Sun Dec 15 12:52:01 CST 2019:	left_mouse : 1
+Sun Dec 15 12:52:01 CST 2019:	right_mouse : 3
+Sun Dec 15 12:52:01 CST 2019:	middle_mouse : 2
+Sun Dec 15 12:52:01 CST 2019:	Running at 60 FPS as per config file!
+Sun Dec 15 12:52:01 CST 2019:	Key mapping changed! up_key: 87 -> 38
+Sun Dec 15 12:54:34 CST 2019:	Loading config...
+Sun Dec 15 12:54:34 CST 2019:	Config options: 
+Sun Dec 15 12:54:34 CST 2019:	title : Default Game
+Sun Dec 15 12:54:34 CST 2019:	window_width : 800
+Sun Dec 15 12:54:34 CST 2019:	window_height : 600
+Sun Dec 15 12:54:34 CST 2019:	resizable : false
+Sun Dec 15 12:54:34 CST 2019:	fps : 60
+Sun Dec 15 12:54:34 CST 2019:	up_key : 87
+Sun Dec 15 12:54:34 CST 2019:	down_key : 83
+Sun Dec 15 12:54:34 CST 2019:	left_key : 65
+Sun Dec 15 12:54:34 CST 2019:	right_key : 68
+Sun Dec 15 12:54:34 CST 2019:	pause_key : 80
+Sun Dec 15 12:54:34 CST 2019:	exit_key : 27
+Sun Dec 15 12:54:34 CST 2019:	left_mouse : 1
+Sun Dec 15 12:54:34 CST 2019:	right_mouse : 3
+Sun Dec 15 12:54:34 CST 2019:	middle_mouse : 2
+Sun Dec 15 12:54:34 CST 2019:	Running at 60 FPS as per config file!
+Sun Dec 15 12:55:04 CST 2019:	Loading config...
+Sun Dec 15 12:55:04 CST 2019:	Config options: 
+Sun Dec 15 12:55:04 CST 2019:	title : Default Game
+Sun Dec 15 12:55:04 CST 2019:	window_width : 800
+Sun Dec 15 12:55:04 CST 2019:	window_height : 600
+Sun Dec 15 12:55:04 CST 2019:	resizable : false
+Sun Dec 15 12:55:04 CST 2019:	fps : 60
+Sun Dec 15 12:55:04 CST 2019:	up_key : 87
+Sun Dec 15 12:55:04 CST 2019:	down_key : 83
+Sun Dec 15 12:55:04 CST 2019:	left_key : 65
+Sun Dec 15 12:55:04 CST 2019:	right_key : 68
+Sun Dec 15 12:55:04 CST 2019:	pause_key : 80
+Sun Dec 15 12:55:04 CST 2019:	exit_key : 27
+Sun Dec 15 12:55:04 CST 2019:	left_mouse : 1
+Sun Dec 15 12:55:04 CST 2019:	right_mouse : 3
+Sun Dec 15 12:55:04 CST 2019:	middle_mouse : 2
+Sun Dec 15 12:55:04 CST 2019:	Running at 60 FPS as per config file!
+Sun Dec 15 12:55:29 CST 2019:	Loading config...
+Sun Dec 15 12:55:29 CST 2019:	Config options: 
+Sun Dec 15 12:55:29 CST 2019:	title : Default Game
+Sun Dec 15 12:55:29 CST 2019:	window_width : 800
+Sun Dec 15 12:55:29 CST 2019:	window_height : 600
+Sun Dec 15 12:55:29 CST 2019:	resizable : false
+Sun Dec 15 12:55:29 CST 2019:	fps : 60
+Sun Dec 15 12:55:29 CST 2019:	up_key : 87
+Sun Dec 15 12:55:29 CST 2019:	down_key : 83
+Sun Dec 15 12:55:29 CST 2019:	left_key : 65
+Sun Dec 15 12:55:29 CST 2019:	right_key : 68
+Sun Dec 15 12:55:29 CST 2019:	pause_key : 80
+Sun Dec 15 12:55:29 CST 2019:	exit_key : 27
+Sun Dec 15 12:55:29 CST 2019:	left_mouse : 1
+Sun Dec 15 12:55:29 CST 2019:	right_mouse : 3
+Sun Dec 15 12:55:29 CST 2019:	middle_mouse : 2
+Sun Dec 15 12:55:29 CST 2019:	Running at 60 FPS as per config file!
+Sun Dec 15 12:55:50 CST 2019:	Loading config...
+Sun Dec 15 12:55:50 CST 2019:	Config options: 
+Sun Dec 15 12:55:50 CST 2019:	title : Default Game
+Sun Dec 15 12:55:50 CST 2019:	window_width : 800
+Sun Dec 15 12:55:50 CST 2019:	window_height : 600
+Sun Dec 15 12:55:50 CST 2019:	resizable : false
+Sun Dec 15 12:55:50 CST 2019:	fps : 60
+Sun Dec 15 12:55:50 CST 2019:	up_key : 87
+Sun Dec 15 12:55:50 CST 2019:	down_key : 83
+Sun Dec 15 12:55:50 CST 2019:	left_key : 65
+Sun Dec 15 12:55:50 CST 2019:	right_key : 68
+Sun Dec 15 12:55:50 CST 2019:	pause_key : 80
+Sun Dec 15 12:55:50 CST 2019:	exit_key : 27
+Sun Dec 15 12:55:50 CST 2019:	left_mouse : 1
+Sun Dec 15 12:55:50 CST 2019:	right_mouse : 3
+Sun Dec 15 12:55:50 CST 2019:	middle_mouse : 2
+Sun Dec 15 12:55:50 CST 2019:	Running at 60 FPS as per config file!
+Sun Dec 15 13:00:37 CST 2019:	Loading config...
+Sun Dec 15 13:00:37 CST 2019:	Config options: 
+Sun Dec 15 13:00:37 CST 2019:	title : Default Game
+Sun Dec 15 13:00:37 CST 2019:	window_width : 800
+Sun Dec 15 13:00:37 CST 2019:	window_height : 600
+Sun Dec 15 13:00:37 CST 2019:	resizable : false
+Sun Dec 15 13:00:37 CST 2019:	fps : 60
+Sun Dec 15 13:00:37 CST 2019:	up_key : 87
+Sun Dec 15 13:00:37 CST 2019:	down_key : 83
+Sun Dec 15 13:00:37 CST 2019:	left_key : 65
+Sun Dec 15 13:00:37 CST 2019:	right_key : 68
+Sun Dec 15 13:00:37 CST 2019:	pause_key : 80
+Sun Dec 15 13:00:37 CST 2019:	exit_key : 27
+Sun Dec 15 13:00:37 CST 2019:	left_mouse : 1
+Sun Dec 15 13:00:37 CST 2019:	right_mouse : 3
+Sun Dec 15 13:00:37 CST 2019:	middle_mouse : 2
+Sun Dec 15 13:00:37 CST 2019:	Running at 60 FPS as per config file!
+Sun Dec 15 13:03:34 CST 2019:	Loading config...
+Sun Dec 15 13:03:34 CST 2019:	Config options: 
+Sun Dec 15 13:03:34 CST 2019:	title : Default Game
+Sun Dec 15 13:03:34 CST 2019:	window_width : 800
+Sun Dec 15 13:03:34 CST 2019:	window_height : 600
+Sun Dec 15 13:03:34 CST 2019:	resizable : false
+Sun Dec 15 13:03:34 CST 2019:	fps : 60
+Sun Dec 15 13:03:34 CST 2019:	up_key : 87
+Sun Dec 15 13:03:34 CST 2019:	down_key : 83
+Sun Dec 15 13:03:34 CST 2019:	left_key : 65
+Sun Dec 15 13:03:34 CST 2019:	right_key : 68
+Sun Dec 15 13:03:34 CST 2019:	pause_key : 80
+Sun Dec 15 13:03:34 CST 2019:	exit_key : 27
+Sun Dec 15 13:03:34 CST 2019:	left_mouse : 1
+Sun Dec 15 13:03:34 CST 2019:	right_mouse : 3
+Sun Dec 15 13:03:34 CST 2019:	middle_mouse : 2
+Sun Dec 15 13:03:34 CST 2019:	Running at 60 FPS as per config file!
+Sun Dec 15 13:03:39 CST 2019:	COLLISION!
+Sun Dec 15 13:03:39 CST 2019:	COLLISION!
+Sun Dec 15 13:03:39 CST 2019:	COLLISION!
+Sun Dec 15 13:03:39 CST 2019:	COLLISION!
+Sun Dec 15 13:03:39 CST 2019:	COLLISION!
+Sun Dec 15 13:03:39 CST 2019:	COLLISION!
+Sun Dec 15 13:03:39 CST 2019:	COLLISION!
+Sun Dec 15 13:03:39 CST 2019:	COLLISION!
+Sun Dec 15 13:03:39 CST 2019:	COLLISION!
+Sun Dec 15 13:03:39 CST 2019:	COLLISION!
+Sun Dec 15 13:03:39 CST 2019:	COLLISION!
+Sun Dec 15 13:03:39 CST 2019:	COLLISION!
+Sun Dec 15 13:03:39 CST 2019:	COLLISION!
+Sun Dec 15 13:03:39 CST 2019:	COLLISION!
+Sun Dec 15 13:03:39 CST 2019:	COLLISION!
+Sun Dec 15 13:03:39 CST 2019:	COLLISION!
+Sun Dec 15 13:03:39 CST 2019:	COLLISION!
+Sun Dec 15 13:03:39 CST 2019:	COLLISION!
+Sun Dec 15 13:04:49 CST 2019:	Loading config...
+Sun Dec 15 13:04:49 CST 2019:	Config options: 
+Sun Dec 15 13:04:49 CST 2019:	title : Default Game
+Sun Dec 15 13:04:49 CST 2019:	window_width : 800
+Sun Dec 15 13:04:49 CST 2019:	window_height : 600
+Sun Dec 15 13:04:49 CST 2019:	resizable : false
+Sun Dec 15 13:04:49 CST 2019:	fps : 60
+Sun Dec 15 13:04:49 CST 2019:	up_key : 87
+Sun Dec 15 13:04:49 CST 2019:	down_key : 83
+Sun Dec 15 13:04:49 CST 2019:	left_key : 65
+Sun Dec 15 13:04:49 CST 2019:	right_key : 68
+Sun Dec 15 13:04:49 CST 2019:	pause_key : 80
+Sun Dec 15 13:04:49 CST 2019:	exit_key : 27
+Sun Dec 15 13:04:49 CST 2019:	left_mouse : 1
+Sun Dec 15 13:04:49 CST 2019:	right_mouse : 3
+Sun Dec 15 13:04:49 CST 2019:	middle_mouse : 2
+Sun Dec 15 13:04:49 CST 2019:	Running at 60 FPS as per config file!
+Sun Dec 15 13:15:17 CST 2019:	Loading config...
+Sun Dec 15 13:15:17 CST 2019:	Config options: 
+Sun Dec 15 13:15:17 CST 2019:	title : Default Game
+Sun Dec 15 13:15:17 CST 2019:	window_width : 800
+Sun Dec 15 13:15:17 CST 2019:	window_height : 600
+Sun Dec 15 13:15:17 CST 2019:	resizable : false
+Sun Dec 15 13:15:17 CST 2019:	fps : 60
+Sun Dec 15 13:15:17 CST 2019:	up_key : 87
+Sun Dec 15 13:15:17 CST 2019:	down_key : 83
+Sun Dec 15 13:15:17 CST 2019:	left_key : 65
+Sun Dec 15 13:15:17 CST 2019:	right_key : 68
+Sun Dec 15 13:15:17 CST 2019:	pause_key : 80
+Sun Dec 15 13:15:17 CST 2019:	exit_key : 27
+Sun Dec 15 13:15:17 CST 2019:	left_mouse : 1
+Sun Dec 15 13:15:17 CST 2019:	right_mouse : 3
+Sun Dec 15 13:15:17 CST 2019:	middle_mouse : 2
+Sun Dec 15 13:15:17 CST 2019:	Running at 60 FPS as per config file!
+Sun Dec 15 13:17:06 CST 2019:	Loading config...
+Sun Dec 15 13:17:06 CST 2019:	Config options: 
+Sun Dec 15 13:17:06 CST 2019:	title : Default Game
+Sun Dec 15 13:17:06 CST 2019:	window_width : 800
+Sun Dec 15 13:17:06 CST 2019:	window_height : 600
+Sun Dec 15 13:17:06 CST 2019:	resizable : false
+Sun Dec 15 13:17:06 CST 2019:	fps : 60
+Sun Dec 15 13:17:06 CST 2019:	up_key : 87
+Sun Dec 15 13:17:06 CST 2019:	down_key : 83
+Sun Dec 15 13:17:06 CST 2019:	left_key : 65
+Sun Dec 15 13:17:06 CST 2019:	right_key : 68
+Sun Dec 15 13:17:06 CST 2019:	pause_key : 80
+Sun Dec 15 13:17:06 CST 2019:	exit_key : 27
+Sun Dec 15 13:17:06 CST 2019:	left_mouse : 1
+Sun Dec 15 13:17:06 CST 2019:	right_mouse : 3
+Sun Dec 15 13:17:06 CST 2019:	middle_mouse : 2
+Sun Dec 15 13:17:06 CST 2019:	Running at 60 FPS as per config file!
+Sun Dec 15 13:17:55 CST 2019:	Loading config...
+Sun Dec 15 13:17:55 CST 2019:	Config options: 
+Sun Dec 15 13:17:55 CST 2019:	title : Default Game
+Sun Dec 15 13:17:55 CST 2019:	window_width : 800
+Sun Dec 15 13:17:55 CST 2019:	window_height : 600
+Sun Dec 15 13:17:55 CST 2019:	resizable : false
+Sun Dec 15 13:17:55 CST 2019:	fps : 60
+Sun Dec 15 13:17:55 CST 2019:	up_key : 87
+Sun Dec 15 13:17:55 CST 2019:	down_key : 83
+Sun Dec 15 13:17:55 CST 2019:	left_key : 65
+Sun Dec 15 13:17:55 CST 2019:	right_key : 68
+Sun Dec 15 13:17:55 CST 2019:	pause_key : 80
+Sun Dec 15 13:17:55 CST 2019:	exit_key : 27
+Sun Dec 15 13:17:55 CST 2019:	left_mouse : 1
+Sun Dec 15 13:17:55 CST 2019:	right_mouse : 3
+Sun Dec 15 13:17:55 CST 2019:	middle_mouse : 2
+Sun Dec 15 13:17:55 CST 2019:	Running at 60 FPS as per config file!
+Sun Dec 15 13:22:20 CST 2019:	Loading config...
+Sun Dec 15 13:22:20 CST 2019:	Config options: 
+Sun Dec 15 13:22:20 CST 2019:	title : Default Game
+Sun Dec 15 13:22:20 CST 2019:	window_width : 800
+Sun Dec 15 13:22:20 CST 2019:	window_height : 600
+Sun Dec 15 13:22:20 CST 2019:	resizable : false
+Sun Dec 15 13:22:20 CST 2019:	fps : 60
+Sun Dec 15 13:22:20 CST 2019:	up_key : 87
+Sun Dec 15 13:22:20 CST 2019:	down_key : 83
+Sun Dec 15 13:22:20 CST 2019:	left_key : 65
+Sun Dec 15 13:22:20 CST 2019:	right_key : 68
+Sun Dec 15 13:22:20 CST 2019:	pause_key : 80
+Sun Dec 15 13:22:20 CST 2019:	exit_key : 27
+Sun Dec 15 13:22:20 CST 2019:	left_mouse : 1
+Sun Dec 15 13:22:20 CST 2019:	right_mouse : 3
+Sun Dec 15 13:22:20 CST 2019:	middle_mouse : 2
+Sun Dec 15 13:22:20 CST 2019:	Running at 60 FPS as per config file!
+Sun Dec 15 13:23:31 CST 2019:	Loading config...
+Sun Dec 15 13:23:31 CST 2019:	Config options: 
+Sun Dec 15 13:23:31 CST 2019:	title : Default Game
+Sun Dec 15 13:23:31 CST 2019:	window_width : 800
+Sun Dec 15 13:23:31 CST 2019:	window_height : 600
+Sun Dec 15 13:23:31 CST 2019:	resizable : false
+Sun Dec 15 13:23:31 CST 2019:	fps : 60
+Sun Dec 15 13:23:31 CST 2019:	up_key : 87
+Sun Dec 15 13:23:31 CST 2019:	down_key : 83
+Sun Dec 15 13:23:31 CST 2019:	left_key : 65
+Sun Dec 15 13:23:31 CST 2019:	right_key : 68
+Sun Dec 15 13:23:32 CST 2019:	pause_key : 80
+Sun Dec 15 13:23:32 CST 2019:	exit_key : 27
+Sun Dec 15 13:23:32 CST 2019:	left_mouse : 1
+Sun Dec 15 13:23:32 CST 2019:	right_mouse : 3
+Sun Dec 15 13:23:32 CST 2019:	middle_mouse : 2
+Sun Dec 15 13:23:32 CST 2019:	Running at 60 FPS as per config file!
+Sun Dec 15 13:24:10 CST 2019:	Loading config...
+Sun Dec 15 13:24:10 CST 2019:	Config options: 
+Sun Dec 15 13:24:10 CST 2019:	title : Default Game
+Sun Dec 15 13:24:10 CST 2019:	window_width : 800
+Sun Dec 15 13:24:10 CST 2019:	window_height : 600
+Sun Dec 15 13:24:10 CST 2019:	resizable : false
+Sun Dec 15 13:24:10 CST 2019:	fps : 60
+Sun Dec 15 13:24:10 CST 2019:	up_key : 87
+Sun Dec 15 13:24:10 CST 2019:	down_key : 83
+Sun Dec 15 13:24:10 CST 2019:	left_key : 65
+Sun Dec 15 13:24:10 CST 2019:	right_key : 68
+Sun Dec 15 13:24:10 CST 2019:	pause_key : 80
+Sun Dec 15 13:24:10 CST 2019:	exit_key : 27
+Sun Dec 15 13:24:10 CST 2019:	left_mouse : 1
+Sun Dec 15 13:24:10 CST 2019:	right_mouse : 3
+Sun Dec 15 13:24:10 CST 2019:	middle_mouse : 2
+Sun Dec 15 13:24:10 CST 2019:	Running at 60 FPS as per config file!
+Sun Dec 15 13:25:09 CST 2019:	Loading config...
+Sun Dec 15 13:25:09 CST 2019:	Config options: 
+Sun Dec 15 13:25:09 CST 2019:	title : Default Game
+Sun Dec 15 13:25:09 CST 2019:	window_width : 800
+Sun Dec 15 13:25:09 CST 2019:	window_height : 600
+Sun Dec 15 13:25:09 CST 2019:	resizable : false
+Sun Dec 15 13:25:09 CST 2019:	fps : 60
+Sun Dec 15 13:25:09 CST 2019:	up_key : 87
+Sun Dec 15 13:25:09 CST 2019:	down_key : 83
+Sun Dec 15 13:25:09 CST 2019:	left_key : 65
+Sun Dec 15 13:25:09 CST 2019:	right_key : 68
+Sun Dec 15 13:25:09 CST 2019:	pause_key : 80
+Sun Dec 15 13:25:09 CST 2019:	exit_key : 27
+Sun Dec 15 13:25:09 CST 2019:	left_mouse : 1
+Sun Dec 15 13:25:09 CST 2019:	right_mouse : 3
+Sun Dec 15 13:25:09 CST 2019:	middle_mouse : 2
+Sun Dec 15 13:25:09 CST 2019:	Running at 60 FPS as per config file!
+Sun Dec 15 13:25:48 CST 2019:	Loading config...
+Sun Dec 15 13:25:48 CST 2019:	Config options: 
+Sun Dec 15 13:25:48 CST 2019:	title : Default Game
+Sun Dec 15 13:25:48 CST 2019:	window_width : 800
+Sun Dec 15 13:25:48 CST 2019:	window_height : 600
+Sun Dec 15 13:25:48 CST 2019:	resizable : false
+Sun Dec 15 13:25:48 CST 2019:	fps : 60
+Sun Dec 15 13:25:48 CST 2019:	up_key : 87
+Sun Dec 15 13:25:48 CST 2019:	down_key : 83
+Sun Dec 15 13:25:48 CST 2019:	left_key : 65
+Sun Dec 15 13:25:48 CST 2019:	right_key : 68
+Sun Dec 15 13:25:48 CST 2019:	pause_key : 80
+Sun Dec 15 13:25:48 CST 2019:	exit_key : 27
+Sun Dec 15 13:25:48 CST 2019:	left_mouse : 1
+Sun Dec 15 13:25:48 CST 2019:	right_mouse : 3
+Sun Dec 15 13:25:48 CST 2019:	middle_mouse : 2
+Sun Dec 15 13:25:48 CST 2019:	Running at 60 FPS as per config file!
+Sun Dec 15 13:26:42 CST 2019:	Loading config...
+Sun Dec 15 13:26:42 CST 2019:	Config options: 
+Sun Dec 15 13:26:42 CST 2019:	title : Default Game
+Sun Dec 15 13:26:42 CST 2019:	window_width : 800
+Sun Dec 15 13:26:42 CST 2019:	window_height : 600
+Sun Dec 15 13:26:42 CST 2019:	resizable : false
+Sun Dec 15 13:26:42 CST 2019:	fps : 60
+Sun Dec 15 13:26:42 CST 2019:	up_key : 87
+Sun Dec 15 13:26:42 CST 2019:	down_key : 83
+Sun Dec 15 13:26:42 CST 2019:	left_key : 65
+Sun Dec 15 13:26:42 CST 2019:	right_key : 68
+Sun Dec 15 13:26:42 CST 2019:	pause_key : 80
+Sun Dec 15 13:26:42 CST 2019:	exit_key : 27
+Sun Dec 15 13:26:42 CST 2019:	left_mouse : 1
+Sun Dec 15 13:26:42 CST 2019:	right_mouse : 3
+Sun Dec 15 13:26:42 CST 2019:	middle_mouse : 2
+Sun Dec 15 13:26:42 CST 2019:	Running at 60 FPS as per config file!
+Sun Dec 15 13:27:08 CST 2019:	Loading config...
+Sun Dec 15 13:27:08 CST 2019:	Config options: 
+Sun Dec 15 13:27:08 CST 2019:	title : Default Game
+Sun Dec 15 13:27:08 CST 2019:	window_width : 800
+Sun Dec 15 13:27:08 CST 2019:	window_height : 600
+Sun Dec 15 13:27:08 CST 2019:	resizable : false
+Sun Dec 15 13:27:08 CST 2019:	fps : 60
+Sun Dec 15 13:27:08 CST 2019:	up_key : 87
+Sun Dec 15 13:27:08 CST 2019:	down_key : 83
+Sun Dec 15 13:27:08 CST 2019:	left_key : 65
+Sun Dec 15 13:27:08 CST 2019:	right_key : 68
+Sun Dec 15 13:27:08 CST 2019:	pause_key : 80
+Sun Dec 15 13:27:08 CST 2019:	exit_key : 27
+Sun Dec 15 13:27:08 CST 2019:	left_mouse : 1
+Sun Dec 15 13:27:08 CST 2019:	right_mouse : 3
+Sun Dec 15 13:27:08 CST 2019:	middle_mouse : 2
+Sun Dec 15 13:27:08 CST 2019:	Running at 60 FPS as per config file!
+Sun Dec 15 13:28:31 CST 2019:	Loading config...
+Sun Dec 15 13:28:31 CST 2019:	Config options: 
+Sun Dec 15 13:28:31 CST 2019:	title : Default Game
+Sun Dec 15 13:28:31 CST 2019:	window_width : 800
+Sun Dec 15 13:28:31 CST 2019:	window_height : 600
+Sun Dec 15 13:28:31 CST 2019:	resizable : false
+Sun Dec 15 13:28:31 CST 2019:	fps : 60
+Sun Dec 15 13:28:31 CST 2019:	up_key : 87
+Sun Dec 15 13:28:31 CST 2019:	down_key : 83
+Sun Dec 15 13:28:31 CST 2019:	left_key : 65
+Sun Dec 15 13:28:31 CST 2019:	right_key : 68
+Sun Dec 15 13:28:31 CST 2019:	pause_key : 80
+Sun Dec 15 13:28:31 CST 2019:	exit_key : 27
+Sun Dec 15 13:28:31 CST 2019:	left_mouse : 1
+Sun Dec 15 13:28:31 CST 2019:	right_mouse : 3
+Sun Dec 15 13:28:31 CST 2019:	middle_mouse : 2
+Sun Dec 15 13:28:31 CST 2019:	Running at 60 FPS as per config file!
+Sun Dec 15 13:28:49 CST 2019:	Loading config...
+Sun Dec 15 13:28:49 CST 2019:	Config options: 
+Sun Dec 15 13:28:49 CST 2019:	title : Default Game
+Sun Dec 15 13:28:49 CST 2019:	window_width : 800
+Sun Dec 15 13:28:49 CST 2019:	window_height : 600
+Sun Dec 15 13:28:49 CST 2019:	resizable : false
+Sun Dec 15 13:28:49 CST 2019:	fps : 60
+Sun Dec 15 13:28:49 CST 2019:	up_key : 87
+Sun Dec 15 13:28:49 CST 2019:	down_key : 83
+Sun Dec 15 13:28:49 CST 2019:	left_key : 65
+Sun Dec 15 13:28:49 CST 2019:	right_key : 68
+Sun Dec 15 13:28:49 CST 2019:	pause_key : 80
+Sun Dec 15 13:28:49 CST 2019:	exit_key : 27
+Sun Dec 15 13:28:49 CST 2019:	left_mouse : 1
+Sun Dec 15 13:28:49 CST 2019:	right_mouse : 3
+Sun Dec 15 13:28:49 CST 2019:	middle_mouse : 2
+Sun Dec 15 13:28:50 CST 2019:	Running at 60 FPS as per config file!

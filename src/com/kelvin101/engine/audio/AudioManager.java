@@ -5,7 +5,6 @@ import java.io.File;
 import java.io.IOException;
 import java.util.HashMap;
 
-//TODO: fix bug with not seeking audio properly!
 /**
  * Class to handle all loading and playing of songs or audio clips.
  * <p>
@@ -16,13 +15,13 @@ import java.util.HashMap;
  * <p>
  *     The available formats for audio clips are the same as those in the built-in Java {@link AudioFileFormat} class.
  *     These include:
- *     <ul>
+ *     <ol>
  *         <li>WAVE - .wav</li>
  *         <li>AU - .au</li>
  *         <li>AIFF - .aif</li>
  *         <li>AIFF-C - .aifc</li>
  *         <li>SND - .snd</li>
- *     </ul>
+ *     </ol>
  * </p>
  *
  */
@@ -35,7 +34,7 @@ public class AudioManager
     private HashMap<String, String> clipStatus;
     private HashMap<String, Long> clipPositions;
     private HashMap<String, String> clipPaths;
-    private HashMap<String, Boolean> shouldClipLoop;
+    private HashMap<String, Integer> clipLoops;
     private HashMap<String, FloatControl> gainControls;
 
     private AudioManager()
@@ -45,7 +44,7 @@ public class AudioManager
         clipStatus = new HashMap<>();
         clipPositions = new HashMap<>();
         clipPaths = new HashMap<>();
-        shouldClipLoop = new HashMap<>();
+        clipLoops = new HashMap<>();
         gainControls = new HashMap<>();
     }
 
@@ -62,20 +61,24 @@ public class AudioManager
      * Adds an audio clip to the <code>clips</code> hashMap to be manipulated.
      * @param audioPath : the file path to the audio clip
      * @param clipName : a unique clip name for referencing the hashMap
-     * @param shouldLoop : should the clip loop?
+     * @param loops : an integer representing the amount of loops for the audio clip;
+     *              -1 represents indefinite looping.
      * @return true if clip was added successfully; false if not
      */
-    public boolean addAudioClip(String audioPath, String clipName, boolean shouldLoop)
+    public boolean addAudioClip(String audioPath, String clipName, int loops)
     {
         try
         {
             streams.put(clipName, AudioSystem.getAudioInputStream(new File(audioPath).getAbsoluteFile()));
             clips.put(clipName, AudioSystem.getClip());
-            clipPaths.put(clipName, audioPath);
-            shouldClipLoop.put(clipName, shouldLoop);
-
             clips.get(clipName).open(streams.get(clipName));
+
+            clipPaths.put(clipName, audioPath);
+            clipLoops.put(clipName, loops);
+            clipStatus.put(clipName, "none");
+            clipPositions.put(clipName, 0L);
             gainControls.put(clipName, (FloatControl) clips.get(clipName).getControl(FloatControl.Type.MASTER_GAIN));
+
             return true;
         } catch (UnsupportedAudioFileException |
                 LineUnavailableException |
@@ -93,13 +96,28 @@ public class AudioManager
      */
     public boolean removeAudioClip(String clipName)
     {
-        if (!clips.containsKey(clipName))
+        if (clips.containsKey(clipName))
         {
-            return false;
+            try
+            {
+                streams.get(clipName).close();
+                clips.get(clipName).close();
+            } catch (IOException e)
+            {
+                e.printStackTrace();
+                return false;
+            }
+
+            clips.remove(clipName);
+            streams.remove(clipName);
+            clipStatus.remove(clipName);
+            clipPositions.remove(clipName);
+            clipPaths.remove(clipName);
+            clipLoops.remove(clipName);
+            gainControls.remove(clipName);
+            return true;
         }
-        clips.get(clipName).close();
-        clips.remove(clipName);
-        return true;
+        return false;
     }
 
     /**
@@ -108,17 +126,11 @@ public class AudioManager
      */
     public void playClip(String clipName)
     {
-        if (clips.containsKey(clipName))
+        if (clips.containsKey(clipName) && !clipStatus.get(clipName).equals("play"))
         {
-            if (shouldClipLoop.get(clipName))
-            {
-                clips.get(clipName).loop(Clip.LOOP_CONTINUOUSLY);
-            }
-            else
-            {
-                clips.get(clipName).loop(0);
-            }
+            int numOfLoops = clipLoops.get(clipName);
             clipStatus.put(clipName, "play");
+            clips.get(clipName).loop(numOfLoops);
         }
     }
 
@@ -128,14 +140,11 @@ public class AudioManager
      */
     public void pauseClip(String clipName)
     {
-        if (clips.containsKey(clipName))
+        if (clips.containsKey(clipName) && !clipStatus.get(clipName).equals("paused"))
         {
-            if (!clipStatus.get(clipName).equals("paused"))
-            {
-                clipPositions.put(clipName, clips.get(clipName).getMicrosecondPosition());
-                clips.get(clipName).stop();
-                clipStatus.put(clipName, "paused");
-            }
+            clipPositions.put(clipName, clips.get(clipName).getMicrosecondPosition());
+            clips.get(clipName).stop();
+            clipStatus.put(clipName, "paused");
         }
     }
 
@@ -145,15 +154,11 @@ public class AudioManager
      */
     public void resumeClip(String clipName)
     {
-        if (clips.containsKey(clipName))
+        if (clips.containsKey(clipName) && !clipStatus.get(clipName).equals("play"))
         {
-            if (!clipStatus.get(clipName).equals("play"))
-            {
-                clips.get(clipName).close();
-                resetAudioStream(clipName);
-                clips.get(clipName).setMicrosecondPosition(clipPositions.get(clipName));
-                playClip(clipName);
-            }
+            clips.get(clipName).close();
+            resetAudioStream(clipName);
+            playClip(clipName);
         }
     }
 
@@ -169,9 +174,9 @@ public class AudioManager
             clips.get(clipName).close();
 
             resetAudioStream(clipName);
-            clipPositions.put(clipName, 0L);
-            clips.get(clipName).setMicrosecondPosition(clipPositions.get(clipName));
 
+            clipPositions.put(clipName, 0L);
+            clipStatus.put(clipName, "none");
             playClip(clipName);
         }
     }
@@ -185,29 +190,31 @@ public class AudioManager
         if (clips.containsKey(clipName))
         {
             clipPositions.put(clipName, 0L);
+            clipStatus.put(clipName, "none");
             clips.get(clipName).stop();
             clips.get(clipName).close();
         }
     }
 
     /**
+     * TODO: FIX THIS METHOD! It is not seeking and instead is just restarting the clip.
      * Seeks (or jumps) ahead in the audio clip by the specified amount of milliseconds.
      * @param clipName : a unique clip name for referencing the hashMap
      * @param ms : the amount of milliseconds to jump ahead
      */
     public void seek(String clipName, long ms)
     {
-        if (clips.containsKey(clipName))
+        if (clips.containsKey(clipName) && (ms > 0 && ms < clips.get(clipName).getMicrosecondLength()))
         {
-            if (ms > 0 && ms < clips.get(clipName).getMicrosecondLength())
-            {
-                clipPositions.put(clipName, ms);
-                clips.get(clipName).stop();
-                clips.get(clipName).close();
-                resetAudioStream(clipName);
-                clips.get(clipName).setMicrosecondPosition(clipPositions.get(clipName));
-                playClip(clipName);
-            }
+            clipPositions.put(clipName, ms);
+            clipStatus.put(clipName, "none");
+            clips.get(clipName).stop();
+            clips.get(clipName).close();
+
+            resetAudioStream(clipName);
+
+            clips.get(clipName).setMicrosecondPosition(clipPositions.get(clipName));
+            resumeClip(clipName);
         }
     }
 
@@ -222,10 +229,7 @@ public class AudioManager
         {
             streams.put(clipName, AudioSystem.getAudioInputStream(new File(clipPath).getAbsoluteFile()));
             clips.get(clipName).open(streams.get(clipName));
-            if (shouldClipLoop.get(clipName))
-            {
-                clips.get(clipName).loop(Clip.LOOP_CONTINUOUSLY);
-            }
+            clipStatus.put(clipName, "none");
 
         } catch (UnsupportedAudioFileException |
                 LineUnavailableException |
@@ -236,8 +240,8 @@ public class AudioManager
     }
 
     /**
-     * Increase or decrease the gain amount for the specified clip. This controls the volume of the
-     *  audio clip.
+     * Increase or decrease the gain amount for the specified clip. In addition to
+     *  {@link AudioManager#setVolume(String, double)}, this method can also adjust the volume of the clip.
      * @param clipName : a unique clip name for referencing the hashMap
      * @param gainAmt : a float representing the gain amount; positive gain indicates increase in volume.
      *                Negative gain is a decrease in volume.
