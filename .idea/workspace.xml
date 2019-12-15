@@ -7,28 +7,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38922ead-74fb-4908-b10d-32ce0f86b4db" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/res/audio/ambientBackground.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/audio/test.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kelvin101/engine/audio/AudioManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2DEngine/com/kelvin101/engine/base/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2DEngine/com/kelvin101/engine/base/Game.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2DEngine/com/kelvin101/engine/config/ConfigOptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2DEngine/com/kelvin101/engine/config/ConfigOptions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2DEngine/com/kelvin101/engine/files/Files.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2DEngine/com/kelvin101/engine/files/Files.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2DEngine/com/kelvin101/engine/files/Global.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2DEngine/com/kelvin101/engine/files/Global.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2DEngine/com/kelvin101/engine/gui/ConfigGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2DEngine/com/kelvin101/engine/gui/ConfigGUI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2DEngine/com/kelvin101/engine/input/InputManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2DEngine/com/kelvin101/engine/input/InputManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2DEngine/com/kelvin101/gametest/EngineLauncher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2DEngine/com/kelvin101/gametest/EngineLauncher.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/2DEngine/com/kelvin101/gametest/entities/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2DEngine/com/kelvin101/gametest/entities/Player.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2DEngine/com/kelvin101/gametest/entities/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2DEngine/com/kelvin101/gametest/entities/Square.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2DEngine/config/default_config.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2DEngine/config/default_config.cfg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/2DEngine/logs/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2DEngine/logs/log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/config/default_config.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/res/config/default_config.cfg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/res/logs/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/logs/log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kelvin101/engine/base/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kelvin101/engine/base/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kelvin101/engine/config/ConfigOptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kelvin101/engine/config/ConfigOptions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kelvin101/engine/files/Files.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kelvin101/engine/files/Files.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kelvin101/engine/gamestates/State.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kelvin101/engine/gamestates/State.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kelvin101/engine/input/InputManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kelvin101/engine/input/InputManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/kelvin101/gametest/EngineLauncher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kelvin101/gametest/EngineLauncher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/kelvin101/gametest/entities/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kelvin101/gametest/entities/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kelvin101/gametest/entities/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kelvin101/gametest/entities/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kelvin101/gametest/states/GameState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kelvin101/gametest/states/GameState.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +43,14 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="#JAVA_HOME" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1UrbNYfnkz7kIkqHepUzTsrkyhC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -66,13 +62,16 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/res" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/res/audio" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15332031" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Programming\Java\2DEngine\res\audio" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Programming\Java\2DEngine\res\config" />
     </key>

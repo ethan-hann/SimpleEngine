@@ -1,5 +1,6 @@
 package com.kelvin101.gametest.entities;
 
+import com.kelvin101.engine.audio.AudioManager;
 import com.kelvin101.engine.base.GameObject;
 import com.kelvin101.engine.collision.Bounds;
 import com.kelvin101.engine.gamestates.StateManager;
@@ -44,11 +45,15 @@ public class Player extends GameObject
         }
         if (InputManager.getInstance().isMousePressed("left_mouse"))
         {
-            Logger.getInstance().write("Left mouse button pressed!");
+            AudioManager.getInstance().playClip("testClip");
         }
         if (InputManager.getInstance().isMousePressed("right_mouse"))
         {
-            Logger.getInstance().write("Right mouse button pressed!");
+            AudioManager.getInstance().pauseClip("testClip");
+        }
+        if (InputManager.getInstance().isKeyPressed("pause_key"))
+        {
+            AudioManager.getInstance().seek("testClip", 500);
         }
     }
 

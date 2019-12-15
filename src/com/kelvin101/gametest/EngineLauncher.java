@@ -1,5 +1,6 @@
 package com.kelvin101.gametest;
 
+import com.kelvin101.engine.audio.AudioManager;
 import com.kelvin101.engine.base.Game;
 import com.kelvin101.engine.base.GameObject;
 import com.kelvin101.engine.collision.AABB;
@@ -40,6 +41,10 @@ public class EngineLauncher
                 .getStateObjects()
                 .put("obstacle", obstacle);
         StateManager.getInstance().setCurrentState(gameState);
+        AudioManager.getInstance().addAudioClip("./res/audio/test.wav", "testClip", false);
+        AudioManager.getInstance().addAudioClip("./res/audio/ambientBackground.wav", "bg", true);
+        AudioManager.getInstance().setVolume("testClip", 0.3);
+        AudioManager.getInstance().setVolume("bg", 1.0);
         //InputManager.getInstance().changeKeyMapping(38, "up_key");
     }
 }
